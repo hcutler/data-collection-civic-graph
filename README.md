@@ -5,7 +5,7 @@ In an effort to make Civic Graph a little bit smarter, I developed four building
 * __Web Scrapers__
 * __Analytics Toolbox__
 * __Classifier__
-* __Pipeline__ to integrate *scrapers*, *classifier*, and *analysis* with existing Civic Graph
+* [__Pipeline__](/References/Pipeline Diagram.pdf) to integrate *scrapers*, *classifier*, and *analysis* with existing Civic Graph
 
 View the full write-up [here](/References/Handoff for Briana.pdf).
 
