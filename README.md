@@ -11,3 +11,17 @@ View the full write-up [here](/References/Handoff for Briana.pdf).
 
 
 ![](blocks.png)
+
+
+
+
+
+
+
+
+
+----
+
+An open-source project by
+
+![alt text](https://assets.onestore.ms/cdnfiles/onestorerolling-1607-15000/shell/v3/images/logo/microsoft.png "Logo Title Text 3")
