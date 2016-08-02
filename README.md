@@ -7,4 +7,7 @@ In an effort to make Civic Graph a little bit smarter, I developed four building
 * Classifier
 * Pipeline to integrate scrapers, classifier, analysis with existing Civic Graph
 
-View the full write-up [here]().
+View the full write-up [here](/References/Handoff for Briana.pdf).
+
+
+![](blocks.png)
