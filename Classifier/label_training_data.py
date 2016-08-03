@@ -135,11 +135,11 @@ def label_location():
 
 
 def main():
-  label_funding()
-  label_data()
+  # label_funding()
+  # label_data()
   label_employment()
-  label_collaboration()
-  label_location()
+  # label_collaboration()
+  # label_location()
 
 
 if __name__ == "__main__":
