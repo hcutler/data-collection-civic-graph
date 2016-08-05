@@ -28,7 +28,7 @@ I've compiled a list of tools and resources that I used throughout the project. 
 * Machine Learning
 
 
-__Libraries, tools, APIs:__
+### __Libraries, tools, APIs:__
 
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
@@ -41,7 +41,7 @@ __Libraries, tools, APIs:__
 * [scikit-learn](http://scikit-learn.org/stable/)
 
 
-__Concepts:__
+### __Concepts:__
 
 * [Supervised Learning](https://en.wikipedia.org/wiki/Supervised_learning)
 
@@ -53,7 +53,8 @@ __Concepts:__
 
 * [Feature Extraction](https://en.wikipedia.org/wiki/Feature_extraction) 
 
-__Books:__
+
+### __Books:__
 
 * [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793/ref=pd_sim_14_3?ie=UTF8&dpID=515XdK-YtFL&dpSrc=sims&preST=_AC_UL160_SR122%2C160_&psc=1&refRID=1XKK35B7MX9J9MDRK66H)
 
