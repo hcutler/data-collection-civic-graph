@@ -16,6 +16,7 @@ View the full write-up [here](/References/Handoff for Briana.pdf).
 ----
 
 
+
 # Additional Resources:
 
 I've compiled a list of tools and resources that I used throughout the project. They cover a range of topics including:
