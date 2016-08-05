@@ -13,24 +13,10 @@ View the full write-up [here](/References/Handoff for Briana.pdf).
 ![](blocks.png)
 
 
-
-
-
-
-
-
-
-----
-
-Created by Hannah Cutler during my internship at
-
-![alt text](https://assets.onestore.ms/cdnfiles/onestorerolling-1607-15000/shell/v3/images/logo/microsoft.png "Logo Title Text 3")
-
-
 ----
 
 
-## Additional Resources:
+# Additional Resources:
 
 I've compiled a list of tools and resources that I used throughout the project. They cover a range of topics including:
 
@@ -74,3 +60,14 @@ __Books:__
 
 * [Web Scraping with Python](https://www.amazon.com/Web-Scraping-Python-Collecting-Modern/dp/1491910291/ref=sr_1_fkmr0_4?s=books&ie=UTF8&qid=1470405642&sr=1-4-fkmr0&keywords=data+alanysis+in+python)
 
+
+
+
+----
+
+Created by Hannah Cutler during my internship at
+
+![alt text](https://assets.onestore.ms/cdnfiles/onestorerolling-1607-15000/shell/v3/images/logo/microsoft.png "Logo Title Text 3")
+
+
+----
