@@ -68,6 +68,3 @@ __Books:__
 Created by Hannah Cutler during my internship at
 
 ![alt text](https://assets.onestore.ms/cdnfiles/onestorerolling-1607-15000/shell/v3/images/logo/microsoft.png "Logo Title Text 3")
-
-
-----
