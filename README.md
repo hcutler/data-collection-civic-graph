@@ -29,7 +29,7 @@ I've compiled a list of tools and resources that I used throughout the project. 
 
 __Libraries, tools, APIs:__
 
-* [BeatifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 * [spaCy](https://spacy.io/)
 
