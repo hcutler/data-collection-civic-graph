@@ -9,13 +9,18 @@
 
 __Libraries, tools, APIs:__
 
-[spaCy](https://spacy.io/)
+[spaCy](https://spacy.io/):
+Free, open-source Python library for fast and accurate Natural Language Processing analysis.
 
-[textacy](https://github.com/chartbeat-labs/textacy)
+[textacy](https://github.com/chartbeat-labs/textacy):
+Python library built on top of spaCy for higher level Natural Language Processing (NLP).
 
-[nltk](http://www.nltk.org/)
+[nltk](http://www.nltk.org/):
+Platform for writing python programs to work with human language data.  Provides over 50 corpora and lexical resources. Includes text processing libraries for classification, tokenization, stemming, tagging, parsing, semantic reasoning, wrappers for industrial-strength NLP libraries.  Tools are easy to use and accurate but very slow on large datasets.
 
-[scikit-learn](http://scikit-learn.org/stable/)
+
+[scikit-learn](http://scikit-learn.org/stable/):
+Machine learning library in Python built on NumPy, SciPy, and matplotlib.
 
 
 __Books:__
