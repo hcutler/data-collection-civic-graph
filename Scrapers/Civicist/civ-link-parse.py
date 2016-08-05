@@ -19,7 +19,6 @@ except IndexError:
     num_pages = 48 #48 pages
 
 url_list = ["{}page/{}".format(base_url, str(page)) for page in range(1, num_pages + 1)]
-url_list = []
 
 url_list.remove('http://civichall.org/civicist-archives/page/1')
 
@@ -42,7 +41,7 @@ for url in url_list:
     article_links.append(link[start:end])
 
 #write article urls to textfile
-with open("articles_links-JULY.txt", "w") as outfile:
+with open("article-links-extra.txt", "w") as outfile:
   for x in article_links:
     outfile.write(x +'\n')
 

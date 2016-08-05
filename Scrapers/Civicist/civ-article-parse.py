@@ -8,7 +8,7 @@ import unicodedata
 
 #read article urls from textfile
 all_text = ""
-with open("articles_links-JULY.txt", "r") as file:
+with open("article-links-extra.txt", "r") as file:
   data = file.read()
   url_list = data.split('\n')
   
@@ -56,6 +56,6 @@ with open("articles_links-JULY.txt", "r") as file:
     # print all_text
     all_text = unicodedata.normalize('NFKD', all_text).encode('ascii','ignore')
 
-with open("all_content-JULY.txt", "w") as outfile:
+with open("extra-content-all.txt", "w") as outfile:
   outfile.write(all_text)
 
