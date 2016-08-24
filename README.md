@@ -67,6 +67,6 @@ I've compiled a list of tools and resources that I used throughout the project. 
 
 ----
 
-Created by Hannah Cutler during my internship at
+Created by Hannah Cutler during my fellowship at
 
 ![alt text](https://assets.onestore.ms/cdnfiles/onestorerolling-1607-15000/shell/v3/images/logo/microsoft.png "Logo Title Text 3")
