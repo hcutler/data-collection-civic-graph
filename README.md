@@ -16,9 +16,10 @@ I created a __Process Map__ to explain how everything that I built fits together
 I also created a __Handoff Document for a Future Fellow__ outlining how each script works, external libraries used, and how they can fully integrate my work with the existing Civic Graph in the future. View the document [here](/References/Handoff for Future Fellow.pdf).
  
  
- 
- 
- 
+<br /> 
+<br />
+
+---
 
 # External Resources:
 
