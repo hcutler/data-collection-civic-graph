@@ -1,0 +1,6 @@
+(u'Dallas', u'Jason Koebler')
+employment
+(u'New York Times', u'Mike Isaac')
+employment
+(u'New York Times', u'Sydney')
+collaboration

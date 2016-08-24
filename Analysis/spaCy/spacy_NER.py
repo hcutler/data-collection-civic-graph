@@ -8,7 +8,7 @@ from operator import itemgetter
 from collections import OrderedDict
 
 # read in data
-with open("tp-civ-all.txt","r") as f:
+with open("sb-content.txt","r") as f:
   data = f.read() # type 'string'
 
 # tokenize input data

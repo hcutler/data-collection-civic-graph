@@ -1,6 +1,6 @@
 library(data.table)
 library(plyr)
-setwd("/Users/Hannah-Cutler/Desktop/summer-2016/Microsoft/civictech-blog-analysis")
+setwd("/Users/Hannah-Cutler/Desktop/summer-2016/Microsoft/data-collection-civic-graph/Analysis/General analysis")
 
 blog <- read.csv("blog_entities.csv", sep=",")
 graph <- read.csv("cg_entities.csv", sep=",")

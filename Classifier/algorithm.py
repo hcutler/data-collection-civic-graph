@@ -140,7 +140,7 @@ data5 = readfile_tokenizedata("location_training.txt")
 for d in data1:
   preprocess(data)
 
-  
+
 #Generate training set for each set of labels
 training1 = zip(data1,labels)
 training2 = zip(data2, labels2)

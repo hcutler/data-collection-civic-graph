@@ -1,0 +1,1289 @@
+
+The civic tech story isnt your average fairy tale. Theres no easy road where three clicks get you where youre going. Its a complicated landscape with multiple plotlines and more dragons than Munchkins.
+The Personal Democracy Forum conference has always been a celebration of technologys role transforming politics and redefining democracy. But this years celebration included particularly strong notes of caution, like danah boyds talk on the unintended consequences of code, Mark Surmans warning that internet freedom is shrinking and Mariana Ruiz Firmats reminder that equity within our organizations is a design imperative, not just a good hiring practice.
+The chorus of realistic voices was my second favorite thing about PDF16. My favorite was our own cautionary panel, Is the Civic Tech Story Broken?, which I presented with panelists Sam Dorman, Elizabeth Eagen and Shaifali Puri.
+In the panel description, we said:
+We have an expectations problem in the civic tech world that is making donors waste money and social justice projects waste opportunities. When foundations and executives expect technology to create rapid results, or massive results, they can set up their tools and their teams to fall short. And simplistic expectations mess up the incentives for advocates and donors alike. Advocates will keep talking like tech utopians even when they know better, to secure funds; and donors will smooth over tech projects that underperform, to tell an easier story to their boards and their peers.
+To fix these mismatches in expectations, civic tech needs a better story. One that celebrates not just innovation but alignment between donor missions, tool designs, and local impacts. One that rescues the word learning from the stigmas of evaluation and failure and gets people across the civic tech ecosystem to celebrate project shortfalls for what they teach us about not repeating our mistakes. Our panel of experts from the tech and donor communities will come with good and bad stories from the expectations gap, and well work with session attendees to brainstorm new stories that will help civic tech strengthen its realism and its civic conscience.
+
+Our central message was that the expectations surrounding civic tech are not aligned with the realities of how it takes holdor doesnt. We expect that new tools will transform organizations, but too often projects stall on non-tech challenges, or teams lack the person-power to make a new system thrive. We go big on big data, expecting citizens and governments to reboot their relationship, then go home disappointed when the realities of power relationships and bureaucracy slow down the new age.
+The panel was determined to do more than complain, though. We, and later our audience, brought ideas for bridging the civic tech expectations gap. We talked about how our community can change the civic tech story from one that assumes transformation to one that anticipates challenges.
+To add context to the discussion, I compared the struggles of civic tech to previous cycles of idealism and shortfall, for blogs in 2006, for instance, or for social media in 2010. In both those cases, civic groups learned that breakthrough tools still need bread-and-butter planning to create lasting change.
+We use utopian shorthand too often when we promote the potential of civic tech. And simplistic expectations can mess up the incentives, especially for grantmakers, who are already prone to following the tech hype of the month, as Esraa Al-Shafei put it in her PDF talk. Fortunately, some donors are trying to take a longer look at the progress of civic tech. The day before, we heard from Omidyar Networks Stacy Donohue about the absence of a shared vision for civic techs purpose and role.
+Our panel included two experienced funders, from the Open Society Foundations and the Nike Foundation. Elizabeth Eagen of the OSF Information Program said that a thoughtful design phase for data-driven programs can make the difference between success and unmet expectations in technology grants and technology projects.
+Be clear on the hypotheses you are supposed to be testing, she said, and understand how nuances in project goals can actually represent huge differences in aims. The general plan to build a database, for example, might mean gathering data and making it more usable, but might just as easily mean conducting pilot work and capacity development to determine the availability of data and the readiness of a grantee to use that data for advocacy. The lesson: Dont settle for broadly-defined goals. Spend time on design to be clearand realisticabout your hypothesis.
+Elizabeth added that it may take more paperwork to fund a thoughtful design phasesince the final goals wont be clear at the outset, but the extra planning is worth it, especially because technology can easily impinge on human rights in the effort to protect them.
+Shaifali Puri, who led global innovation for the Nike Foundation, said we need tech grantmaking that is more utilitarian and less utopian. If human experience is full of power imbalances, she said, then civic tech has a cultural imperative to be aware of existing infrastructures, or it risks reinforcing them. Shaifali recommended donor groups look more honestly at their failures, to avoid more projects where the impact happens in spite of the tech.
+Sam Dorman pointed to the tension between funding cost-efficient technology experiments and investing at the higher levels that can help assure success. He said organizational capacity, which is often ignored entirely in funder initiatives, is one of the key differentiators between successful and unsuccessful technology. Internal capacity and thoughtful planning were also at the heart of Sams talk the previous day on the PDF main stage. When the social sector builds tech products, he argued, on some level our organizations become tech companies. We need to invest a comparable level of care if we want these products to remain effective.
+So while the civic tech story may not be completely broken, we all agreed that stories of difficulty, stories of failure and stories drawn from the demand side of civic needsand not just the supply side of great toolsshould be more visible and more shareable among us.
+To walk the talk of story-sharing, we opened the topic to our audience using the super-low-tech platform of index cards. We asked for specific examples of tech projects that struggled with an expectations gap, and examples or ideas for how organizations, donors and technologists can narrow the gap. Four responses from the dozen or so we received are captured here.
+Craig Sinclair described the roadblocks that the CMDrupal project faced after launching tools to support Community Media Centers. Even though the platform enabled each center to tailor the modules to their needs, this option to customize made it too complex/expensive, so only the largest center deployed the project. (Thats Sams internal capacity challenge seen in the wild.)
+Even though his work has garnered two awards from New York Citys BigApps contest, Joel Natividad said, I found civic tech so much harder than I thought: Depleted savings, tapped home equity, kited credit cards, raised money from friends, family, and VCs didnt understand.
+Joel singled out the government procurement process as a major roadblock in the spread of civic techechoing comments by Elizabeth during the panel and a blog by Tom Steinbergthat helped to inspire the session.  Government is ripe for innovation, he said, but government tech is built and delivered by the government-contractor complex ... procurement, bureaucracy, politics, regulatory capture and the election cycle make it so hard.
+Lawrence Grodeska of Civicmakers advised governments and organizations to adopt the Service Design model, to help tackle civic challenges in a more holistic way, builds with not for, and ensures theres a seat at the table for design thinking from the outset of any project.
+Designer, director and sometime techie Andrew James Benson speculated that an organization like PDF could become an impact-oriented convener of founders and organizations to assert common goals, like the Millennium Development Goals for civic tech.
+As we struggle to tell a civic tech story grounded in realistic but ambitious expectations, the Millennium Development Goals arent a bad place to look for inspirationspecifically because they didnt deliver all the results promised, and because their 2.0 release, the Sustainable Development Goals have prompted a timely conversation on the power of data andthe power of inclusion.
+My own prescriptions for a healthier civic tech story included the example set by Civic Hall Labs, who made sure to include failures in their recent field guide, and a more radical wish that all our scattered stories of collaboration, innovation and unmet expectations could be easier to find and share, perhaps using a model like the Humanitarian Exchange Language.
+Like the PDF conference, the civic tech community has never been more diverse in the backgrounds and perspectives of its members. Now that weve grown out of the blind enthusiasm stage of civic tech, we ought to be able to bring that same enthusiasm to a less simplistic, but equally intriguing story.
+
+
+By: Jed Miller
+Aug 3, 2016
+
+
+
+
+
+Share
+
+
+Share on Twitter
+
+
+Share on Facebook
+
+
+Share by Email
+
+
+Topics  Civic Tech 
+
+
+
+
+
+Tech and politics: Brian Barrett has a must-read piece in Wired about how Americas electronic voting machines could be hacked this November. Three-quarters of the country votes via paper ballots, he notes and only five (DE, GA, LA, SC and NJ) rely exclusively on direct recording electronic machines, while others do so partially, like Pennsylvania. Not every state has a provision for conducting a post-election audit to insure confidence in the results, though three that could be swing statesFL, OH and PAdo have relatively strong audit rules on the books.
+
+
+As security analyst Bruce Schneier pointed out last week in the Washington Post, Russian hackers could disrupt the election not only by interfering with electronic voting machines, but also by deleting voter records, among other tactics.
+
+
+Given that a national voter file with 191 million individual records on it appeared online last December, security experts worry that it would not be difficult for hackers to target state-level voter records to selectively purge people.
+
+
+So, while Republican ignominee Donald Trump has started warning that the November election might be rigged against him, an unprecedented charge that may undermine confidence in the results, theres also reason to fear that it might be disrupted from abroad.
+
+
+This is civic tech: President Obama spoke to the National Convention of Disabled American Veterans on Monday, and in his remarks he highlighted the efforts of some of the tech talent hes recruited to improve access to veterans care. ...[I]n one of their first innovations, veterans can now finally apply for VA health care anytime, anywhere, from any device, including your smartphonesimple, easy, in as little as 20 minutes. Just go to Vets.gov. The days of having to wait in line at a VA office, or mailing it inthose days are over. Were finally moving into the 21st century when it comes to helping our veterans.
+
+
+The Sunlight Foundations labs director Kat Duffy announces that the annual Transparency Camp unconference will take place this October 14-15 in Cleveland, at the citys Downtown Public Library. (The library sounds like a pretty smart civic innovator, with a branch located inside Cleveland City Hall.)
+
+
+iStrategy Labs, the baby of Peter Corbett (who organized the first Apps for Democracy hackathon back in 2008 with DC CTO Vivek Kundra), has been acquired by J. Walter Thompson Company. Congrats to Peter and his team!
+
+
+Civic Hall Labs is hiring! Were looking for a director of technology and several other positions.
+
+
+Civic Hall Labs has also just announced our Healthy Public Challenge, focusing on supporting projects that build a healthy society by promoting civic cohesion, civic agency or better access to public goods and social safety nets.
+
+
+
+
+By: Micah L. Sifry
+Aug 3, 2016
+
+
+
+
+
+Share
+
+
+Share on Twitter
+
+
+Share on Facebook
+
+
+Share by Email
+
+
+
+
+
+
+
+
+Tech and politics: Scott Goodstein and Arun Chaudhary, two of the principals at Revolution Messaging, get profiled in The New Yorker by Benjamin Wallace-Wells
+Chaudhary described submitting a script for a video on income inequality; the senator and his policy staff added details that dramatically swelled its length. We were like, Thats not best practices on the Internet, sir, Chaudhary said, recalling a conversation with Sanders. And he was like, I think America can stand to listen for ten minutes about the single most important issue of our time. And he was right, because that thing has millions and millions and millions of hits. For a while, during the Republican primary debates, they had Sanders dictate the campaigns reaction tweets. Goodstein said, The best part of that entire thing, in my opinion, was one tweet where he was like, You know what, Ive had enough of this. Im going to bed.
+
+
+Politicos Nancy Scola writes that regardless of whether Donald Trump or Hillary Clinton wins the White House, we will get a president with scant first-hand understanding of modern technology.
+
+
+This is civic tech: Open Knowledge Foundation Germany has launched a Prototype Fund, and is offers 1.2 million Euros for individuals and small teams to test their ideas and develop open source tools in the fields of civic tech, data literacy, data security and more. The program is modeled on the Knight Foundations Prototype Fund and is supported by Germanys Federal Ministry of Education and Research.
+
+
+New York City has a new chief digital officer, Sree Sreenivasan, who was previously the CDO for the Metropolitan Museum of Art.
+
+
+Today in stupid moral panics: At the behest of Governor Andrew Cuomo, New York States Department of Corrections has made playing online games like Pokemon Go a parole violation for sex offenders, Adi Robertson of The Verge reports. The decision is based on a finding by two state senators that found more than 100 pokemon and pokestops within a half block of the location of registered sex offenders. The legislators also want to require the games creators to make sure their virtual landscapes do not set up any in-game objectives within 100 feet of sex offenders homes. Considering that there are churches close to sex offenders homes one wonders if New York politicians will regulate them next.
+
+
+Propublicas Julia Angwin writes in The New York Times in favor of making algorithms more accountable, such as requiring the consumers be able to see the data used to make a judgment about them.
+
+
+
+
+By: Micah L. Sifry
+Aug 2, 2016
+
+
+
+
+
+Share
+
+
+Share on Twitter
+
+
+Share on Facebook
+
+
+Share by Email
+
+
+
+
+
+
+
+
+Tech and politics: Donald Trump may be a master of Twitter, but Hillary Clinton gained more Twitter followers during her party convention compared to Trump during his, George Washington Universitys PEORIA Project reports. Writing for Medium, GWU professor Michael Cohen notes that Trump gained 159,536 followers while Clinton gained 191,767. For Clinton that was a 2.4% increase over her starting base nearly 8 million compared to Trumps 1.6% increase on nearly 10 million. Clintons tweets were retweeted 741,000 times compared to 470,000 for Trump, during their respective conventions. She also had more total engagement with her followers. Cohens hypothesis, which is shared by his colleague Michael Cornfield, is that during the convention Clinton gained more Sanders followers than Trump gained followers from all his Republican rivals. 
+
+Longtime blogger Andrew Sullivan, temporarily back in the pundit saddle at New York Magazine, tells Jennifer Schuessler of The New York Times that coming back to the web, Im struck by how so many outlets are doing so many similar things. It feels to me that before, where we had a bunch of very different voices, in a kind of diverse cacophony, its now one big algorithmic wave of sameness. You go from one site to another, and theyre all chasing the same stories, the same quick hot takes.
+
+This is civic tech: Reporting on Code for Americas ongoing effort to restructure its volunteer Brigade program, Jason Shueh of GovTech focuses on the question of whether the local civic tech groups can sustain themselves without stipends from CfA.
+
+Joe Mitchell of the UKs Democracy Club is traveling around Europe this summer exploring the civic tech scene, and heres his report on why Paris scene is thriving.
+
+Brian Glick of ComputerWeekly.com reports on how senior civic servants in the UK want to break up its path-breaking Government Digital Service (which predated and inspired similar efforts like the U.S. Digital Service) and restore power to IT department heads.
+
+Best wishes to Minerva Tantoco, New York Citys first Chief Technology Officer (and a regular visitor to Civic Hall), who is leaving the De Blasio administration to join Future/Perfect Ventures as a senior advisor. Her accomplishments as CTO include helping launch CS4Allthe Citys plan to provide computer science education to every public studentto developing the first-ever comprehensive set of guidelines for the Internet of Things. 
+
+What sharing economy? It is a sad day when, in response to the filing of a commercial lawsuit, a corporate defendant feels compelled to hire unlicensed private investigators to conduct secret personal background investigations of both the plaintiff and his counsel. It is sadder yet when these investigators flagrantly lie to friends and acquaintances of the plaintiff and his counsel in an (ultimately unsuccessful) attempt to obtain derogatory information about them. Thats what Federal District Judge Jed Rakoff said about Ubers hiring of a private investigator to try to dig up dirt about Yale researcher Spencer Meyer, who has filed a lawsuit against the giant company alleging price fixing, Sam Biddle reports for The Intercept.
+
+Is libertarian Trump supporter and Facebook board member Peter Thiel into parabiosis? (Thats the theory that getting regular infusions of a younger persons blood plasma will help an older person live longer.) Jeff Bercovici of Inc. has the story.
+
+A new study in the American Journal of Epidemiology finds that ridesharing services like Uber and Lyft have had no effect on drunk driving in America, despite claims made by the companies,  at least partly because drunk people dont want to pay the cost of a ride, Ankita Rao reports for Vices Motherboard.
+
+Crypto-wars, continued: Moxie Marlinspike, the anarchist coder who is bringing strong encryption to the masses, is profiled by Andy Greenberg in Wired. I actually think that law enforcement should be difficult, Marlinspike says, And I think it should actually be possible to break the law. Edward Snowden uses Signal, the software  Marlinspike wrote, along with a billion WhatsApp users.
+
+
+
+By: Micah L. Sifry
+Aug 1, 2016
+
+
+
+
+
+Share
+
+
+Share on Twitter
+
+
+Share on Facebook
+
+
+Share by Email
+
+
+
+
+
+
+
+
+Where are we now? Abhi Nemani, Sacramentos interim Chief Innovation Officer and the former Chief Data Officer of the LA Mayors Office, shares his thoughts on Medium about whats needed for government and civic technology to continue to flourish.
+
+
+David Kaufman of the U.S. Digital Service interviews the founder and CEO of Girls Who Code, Reshma Saujani, about building a movement, the bravery gap in the workplace, shifting culture within government, and the future of civic tech.
+
+
+Rethinking Debates: In her latest case study for Civicist, Christine Cupaiuolo finds a recent Australian debate illustrates the advantages and limits of hosting debates on Facebook Live.
+
+
+Emily Zanotti reports for HeatStreet on what a safe space /r/The_Donald was made for Donald Trumps AMA this week, free of new accounts or dissent from supporters and non-supporters alike, although that didnt stop the mods of /r/The_Donald from accusing Reddit of censorship, of course.
+
+
+Writing for Slate, Isaac Chotiner interviewed Glenn Greenwald about the difference between a hack and a leak, the DNC hack, WikiLeaks, Edward Snowden, Donald Trumps off-hand remarks about Russia hacking Hillary Clintons emails, the similarities between the Brexit vote and the rise of Trump, and more. Its an excellent read.
+
+
+Weaponized transparency: Writing on the Sunlight Foundation blog, Alex Howard and John Wonderlich rebuked Wikileaks for irresponsibly sharing the personal information, including passport and Social Security numbers, of regular Americans.
+
+
+The phrase register to vote is being searched for now almost as much as Kim Kardashian, Jake Grovum observes on Twitter.
+
+
+Residents of blue states are searching Google for phrases that include vote at a higher rate than residents of red states, Seth Stephens-Davidowitz reports for the New York Times, and there were twice as many searches during the DNC as the Republican convention.
+
+
+Bianca Wylie reports for the Torontoist on the many problems with a new harassment reporting app put out by the Toronto public transit organization.
+
+
+Lila Rimalovski reports for Civicist on Facebooks evolving Safety Check tool, which can now be community generated, distancing the company from the responsibility of picking when to activate it.
+
+
+
+
+By: Jessica McKenzie
+Jul 29, 2016
+
+
+
+
+
+Share
+
+
+Share on Twitter
+
+
+Share on Facebook
+
+
+Share by Email
+
+
+Topics  First Post 
+
+
+
+
+
+
+
+Facebooks Safety Check feature was activated last Friday for the sixth time in only six weeks. The tool was triggered in Orlando after the Pulse attack, during the explosion at Istanbuls airport, after a truck bombing in Baghdad, for the Dallas police shooting, again in Nice, France, and most recently in Munich, Germany, after a deadly attack at a shopping mall. Since Facebook initiated Safety Check during the terrorist attack in Paris last yearthe first time it was used for a non-natural disasteruse of the feature has skyrocketed. Safety Check has been activated at least 30 times since January alone, more than twice the number of activations in 2014 and 2015 combined.
+This is partly because Safety Check can now be community-generated. Rather than relying on Facebook employees to manually activate the feature, last months update allows the platforms algorithms to initiate the check if a critical mass of users are posting about a crisis in a specific location. While the new community-generated feature distances the company from the responsibility of choosing when to activate or not, Facebook engineers still determine the critical mass of users that will trigger the tool.
+These changes allow for greater community ownership of activating Safety Check, Tom Trewinnard, a business development manager in collaborative and multilingual web applications at Meedan Labs, told Civicist on Wednesday.
+When asked about the critical mass of users necessary to activate Facebooks algorithms, Trewinnard said, This is, of course, the next issuewho decides which communities can activate Safety Check and what will be the impact of implicit bias in that process? Facebook has moved from vetting crises to vetting communities who vet crises: that seems like a step in the right direction, though I can certainly imagine further delegation of that responsibility being possible and desirable.
+Safety Check has undergone multiple iterations since its launch in 2014. The tool was originally meant to connect Facebook users in the aftermath of natural disasters, a simple and easy way to say youre safe and check on others. When Safety Check is activated, users in the affected area receive a notification asking whether or not they are safe and if they have friends also impacted by the conflict. Their responses are automatically shared within their networks.
+When Facebook first activated the feature during last years shooting in Paris, many critics asked why they activated it then, but not for similar attacks in Lebanon, Turkey, or Nigeria that occurred in prior months. Safety Checks absence outside of Paris play[ed] into a broader narrative of a perceived lack of media attention and care for disasters and crises that happen outside of the US and Western Europe, said Trewinnard. Critics pointed out that Facebook developers are ill-equipped to distinguish crises worthy of Safety Check from those that are not.
+Laurenellen McCann, director of New America DC and one of Times 30 People Under 30 Changing the World, echoed Trewinnards concerns on her blog. When Facebook lets you mark yourself safe in Paris but not in Beirut, Facebook indicates to us how THEY think about the world and reveals the bias in the experience they bring to us. They reveal what they think about tragedy andI think its fair to saythey reveal their biases about whose lives count.
+In 2015, Facebooks vice president of growth, Alex Schultz, defended Facebooks decision to activate the check in Paris and not for the other attacks. During an ongoing crisis, like war or epidemic, Safety Check in its current form is not that useful for people: because there isnt a clear start or end point and, unfortunately, its impossible to know when someone is truly safe Schultz wrote.
+Now, after recognizing the criticism from the past two years, the company appears to be deferring more to their users when it comes to crisis identification and response. Over the past few months, we have improved the launch process to make it easier for our team to activate more frequently and faster, while testing ways to empower people to identify and elevate local crises as well, a Facebook spokesperson told Fast Company in early July. By making Safety Check community-activated, Facebook is doing more to empower people on the ground, but also appeasing critics and shelving responsibility.
+Wayan Vota, editor of ICTworks.org, an online community for people using emerging technologies for international development, was very critical of Facebooks crisis identification process early on. There is a very slippery moral slope in determining what is a disaster, especially from the safe confines of Silicon Valley. I dont feel comfortable leaving it up to Facebook to decide which disasters are worthy of social media support or not, he wrote on his organizations site.
+In an email to Civicist this week, Vota said he approved of Safety Checks newest update, but wants to see coordination with local emergency response groups.
+The Red Cross considers community members themselves as the true first-responders to emergencies. Facebooks new community-centric Safety Check update is a great step in that direction, he wrote. A next step could be integrating alerts to the Red Cross and other local responders when Facebooks algorithms show a Safety Check launch.
+I believe we should be building digital tools that allow users to self-identify what is an issue for them, and self-organize their response, Vota said to Civicist.
+What remains crucial, according to Tom Trewinnard, is Facebooks commitment to the tool, especially if Safety Check becomes integrated into crisis response practices as Vota suggested. Trewinnard asked, Is Facebook committed to maintaining availability of this feature for the long term? Is Facebooka corporation subject to the whims of global markets and shareholders, accompanied by a corporate lack of transparencythe best owner of this kind of tool?
+
+
+By: Lila Rimalovski
+Jul 28, 2016
+
+
+
+
+
+Share
+
+
+Share on Twitter
+
+
+Share on Facebook
+
+
+Share by Email
+
+
+Topics  AlgorithmsSocial MediaWorld 
+
+
+
+
+Case Study: First leaders debate livestreamed on Facebook Country: Australia  Debate: June 17, 2016
+
+In June 2016, less than a month before Australias federal election, Prime Minister Malcolm Turnbull, head of the Coalition Party, challenged Labor Party Leader Bill Shorten to a different style of debateone that would be aired chiefly on Facebook, with viewers posting comments as it happened.
+The two men had, by this point, already met twice. The first debate, the Sky News / Daily Telegraphs peoples forum in western Sydney on May 13, was conducted town hall-style in front of 100 undecided voters. It attracted a small television audiencearound 54,000, according to reports (Sky News is a paid-subscription channel). At the end, the studio audience declared Shorten the winner: 42-29, with 29 people still unsure who to support.
+The second debate, a National Press Club event in Canberra on May 29 organized by the Australian Broadcasting Corporation, was carried on two ABC channels (but no commercial stations) and drew a combined average viewing audience of 628,000. It was a more staid affair: A panel of journalists asked the questions, and the candidates were permitted to speak without interruption from the panelists or the other candidate.
+With candidates sticking mostly to talking points, despite the panelists efforts to elicit more in-depth responses, the second debate was roundly criticized as lackluster. Phillip Coorey, the Australian Financial Reviews chief political correspondent, wrote that the event cast fresh doubt on the future of what has been an election campaign staple amid concerns it has become a tired and obsolete format.
+Paula Matthewson, a communications adviser and columnist, went further, noting that both men ended up as marionette versions of themselves, awkwardly posturing on the stage with stilted voices and pantomime expressions.
+There was no trace of the former barrister Turnbull, the most skilled and compelling orator in the Federal Parliament, or any sign of the former union leader Shorten, whose inspiring stump speeches could deftly rally the troops, she added. Even more disappointingly, the over-engineering of the leaders performances treated debate viewers to an hour-long display of contemporary journalisms greatest frustration: the non sequitur interview, in which politicians answer every question with a totally unrelated set of talking points.
+Less than a week later, with the election tightening, Turnbull rejected an invite from Sky View for another peoples forum, possibly because he thought the questions during the first event had favored his opponent. Shorten accepted and had the stage to himself; he called Turnbulls no-show an insult to Queenslanders.
+But Turnbull had another plan to reach voters, especially those in areas where the race might be tight. Theres no mandate in Australia for the number of debates, though traditionally there are three. Turnbull wanted the next and presumably final debate to engage a wider audience on smartphones and other mobile devices, so he proposed staging the next debate onlinespecifically on Facebook Live, with the live feed made available to broadcastersa first for a leaders debate in Australia.
+These are the platforms that many people, many would say most Australians, see most of their media on, most of their news, and I think its important that we have an innovative election and that we use the platforms that Australians use, said Turnbull.
+This debate will enable millions of Australians to participate. They will be able to contribute. It will engage a vastly wider audience than the formats that weve used before, he added. My aim is to have as big an audience as possible and to reach everyone, you have got to use the devices which I noticed you are all holding in your hands. Thats the modern world. 
+Some of that statement was correct. In a country of an estimated 24 million, more than 14 million people use Facebook, and more people (44 percent, according to a 2015 study) cite the internet as their main source of news ahead of TV, radio, and print.
+But in terms of audience engagement, the debate would run up modest numbers when it streamed on Facebook Live, though the numbers continued to grow in the days afterward. And the point the debate ended up making about technology and access wasnt the one Turnbull intended.
+A New Social Format
+The 45-minute debate was staged at Facebook Australias headquarters in Sydney. It started at 6 p.m. on a Friday eveningnot the best time to capture voters attention. Hosted by news.com.au, owned by News Corp Australia, the livestream could be viewed at Facebook.com/news.com.au and on the news.com.au website. The television channels Sky News and ABC24 also carried the feed.
+At Facebook, our mission is to make the world more open and connected and we are excited about the potential to connect so many Australians in one of the most important aspects of any election campaigna leadership debate, said Stephen Scheeler, managing director of Facebook Australia.
+Daniel Sankey, editor of news.com.au, said that the Facebook Live platform will give all Australians the ability to not just watch, but to actively participate, in the debate.
+The news site reported that more than 4 million Facebook users saw its posts promoting the debate, and more than 3,000 questions for the prime minister and the opposition leader were submitted in advance. The final questions were selected from these advance submissions and from new comments submitted during the debate, as well as from a small studio audience.  
+Joe Hildebrand, a morning talk show host, brought a giddy energy to his role as moderator. He kicked off the event by taking viewers on a brief tour of Facebooks headquarters, pointing out the gold-colored walls and the roomful of producers and moderators from Facebook and news.com.au tasked with combing through comments.
+Hildebrand told viewers watching that if they wanted to get their question to either the prime minister or the opposition leader, certainly one of whom will be the future prime minister on the night of July 2, the comment should stand out.
+That means no spam, no trolling, no abuse, thats boring, weve seen it all before, he warned. Get exciting, get adventurous, and really tell us about what matters to you, and if youre funny well give you double points.
+Cameras followed Hildebrand into the room where the debate would be held. He walked through the studio audience of 30 undecided voters selected from more than a dozen marginal seatsdistricts that could go either waypausing to ask a few people about the issues that matter most to them. Childcare, education costs, health care, and marriage equality were cited.
+Andrew Bucklow, an entertainment reporter with news.com.au, delivered a final reminder for Facebook users: Those watching on news.com.aus Facebook page could share their reactions by clicking, as often as they wanted, on one of Facebooks emojis. Agree? Give a thumbs up, or a heart. Upset by what youre hearing? Post a sad or angry face.
+Turnbull and Shorten then entered the room and shook hands. They perched casually atop stools on either side of Hildebrand, who again emphasized the newness of the debate, calling it fresh and youth-oriented. Ground rules allowed 90 seconds to answer each question until the final round, when the leaders would have 60 seconds to respond.
+After pleading with both men to avoid cliched talking points, Hildebrand said: This is not the press gallery youre talking to anymore, these are the real people out there who quite frankly, they dont take crap. You know that. We all know that. Let get started.
+The Debate Begins
+And with that, Hildebrand read the first question from Facebookon why voters should trust politicianswhich sounded a lot like a question asked at the National Press Club debate. But more variation followed, from both the public and the candidates.
+The next three questionsone more from Facebook and two from the studio audienceaddressed affordable housing, climate change, and shift workers. The selected questions honed close to issues identified in news.com.aus State of the Nation Survey, which identified the cost of living as the top concern, and Facebook data on the most-mentioned election topics.
+Hildebrand initially described himself as merely a conduit for the publics questions, but he asked smart follow-up questions when time allowed, continuing to push for specific responses.
+After the fourth question, Hildebrand turned to Bucklow of news.com.au for an update on viewer reactions.
+The most popular reaction so far is actually anger, said Bucklow, but a lot of comments flowing through, as youd expect. A couple of cheeky comments about the NBN, some people saying this stream would be far more watchable if we had NBN.
+That was the first inkling the party leaders got that all might not be going well for Facebook Live viewers.
+Only as Good as the Bandwidth
+The NBN stands for the National Broadband Network. Its a major infrastructure project to deliver fast broadband that has seen cost overruns and delays through several different administrations. Indeed, many online viewers were reporting choppy video with periods of buffering, sending angry emojis flying across the screen and posting images on Twitter of what the debate looked like.
+Awful buffering on Facebook. Just found the #leadersdebate on @ABCNews24  #NBN an election issue? pic.twitter.com/BhZjdp3emr
+ Andrew Collins (@AndyCollinsSP) June 17, 2016
+
+
+Malcolm Turnbull buffering is almost like a beautiful Monet #AusVotes #leadersdebate  Via @DavidSharaz pic.twitter.com/EwEhlFsCvM
+ Bevan Shields (@BevanShields) June 17, 2016
+
+A Facebook spokesperson later told Mashable: We thoroughly tested all aspects of our product on different devices with people located around the country both before and during the debate and were not able to identify any issues with the livestream at our end.
+The debate quickly resumed after Bucklows update. Hildebrand, picking up an iPad, read a newly selected Facebook question for the prime minister on whether reducing taxes on companies would increase employment. A question from the audience about youth unemployment followed. Shorten responded by discussing Labors plan for increasing jobs and apprenticeships, then steered the conversation back to NBN, noting that a vibrant economy needs first-class technology and good infrastructure.
+Turnbull countered that his party had inherited a failed project, yet the government had greatly accelerated the number of people connected to NBN and would complete the project by 2019 or 2020.
+But Shorten wasnt done, and he made one more pitchthis time directly to Facebook users. 
+If I could use the Facebook system we have here, I would just like to see people press like if they would prefer to have fiber than copper, said Shorten. Im interested to see what Facebook users who have bad connections and delays and bufferingMalcom Turnbull says everythings fine. Lets press like if you prefer fiber to copper.
+
+At that moment, those watching the Facebook video saw a non-stop parade of thumbs-up emojis.
+Turnbull and Shorten continued to talk over each other, debating whose party bore more responsibility for the projects slow pace and cost. 
+The facts are pretty unpleasant, whatever side of politics youre on, said Hildebrand, finally moving the candidates on to another question from Facebook about mental health funding.
+Then, for a second time, the debate paused to consider the latest online feedback. Standing before an enlarged screen with a live scroll of Facebook comments, Bucklow said Shortens appeal to viewers about the NBN had resulted in like becoming the most popular reaction.
+Bucklow also noted that a number of comments were also coming in about jobs, and he read several of those out loud. The extent of the frustration online was not processed.
+The final section of the debate called for Turnbull and Shorten to limit their answers to 60 seconds, but Hildebrand allowed for a lively dialogue around a new Facebook question on marriage equality (the questions exact wording: What the hell are we waiting for?). Both Turnbull and Shorten support same-sex marriage but have different approaches to making it law. An audience question on the affordability of higher education sparked another discussion.
+The debate wound down with two more newly added questions from Facebookone concerning parliamentary perks, and the other on the candidates mid-range vision for Australia.
+The total question count by the end of the 45-minute debate: Three questions had been submitted to Facebook in advance, four were pulled from Facebook during the debate, and four came from the studio audience.
+Winners and Losers
+Members of the studio audience voted Shorten the winner, 17-7 (the other six people may have remained undecided). The consensus among political reports and analysts was that Shorten came out ahead, though some thought it was a close call.
+David Crowe, a political correspondent for the Australian, wrote that Shorten got the better of Turnbull by using clever tactics and an aggressive message to win the moment.
+Katharine Murphy, who live blogged the debate for The Guardian, said Shorten delivered a feisty performance: a few left hooks, a couple of risks, some high visibility contrast with his opponent, some assertive negativity.
+But the prime minister didnt stumble, she added, didnt take any wrong turns, he just followed the battle plan: Keep it tight and tidy, stick with the messages, be reassuring, and all will be well on polling day. Lets see how that all goes.
+All wasnt well on polling day. The race was so close that it seemed unlikely at first that the Coalition Party would win enough seats to form a majority government. But almost one week after the July 2 election, Shorten conceded defeat. 
+Labors post-debate tweet didnt work.
+Vote Turnbull youll still be buffering #electionin6words
+ Australian Labor (@AustralianLabor) June 29, 2016
+ 
+ 
+The Numbers and Beyond
+Fifteen minutes into first online leaders debate, Facebook showed around 12,400 viewers. The livestream appeared to peak about 30 minutes later, with around 13,400 viewers. When the debate ended, 36,000 comments, 10,000 reactions, and nearly 1,100 shares had been logged. 
+According to Facebook, the debate had 160,000 views by 8:15 p.m.a little more than two hours after the startwith a total newsfeed reach that night of 1.6 million.
+If those figures are correct, even if theyre only half correct, it shows that the debate has reached a lot more people than it normally would, Andrea Carson, a University of Melbourne lecturer in media and politics, told the universitys Election Watch.
+The video ultimately reached 800,000 views before the election, along with 40,000 comments and 2,400 shares. A review of the 16,000 reactions reveals 11,000+ likes; 2,400+ angry faces; 1,600+ hearts; 568 laughs; 338 wows; and 286 sad faces.
+Despite the engagement of Facebook users, Carson noted that more could still be done to increase interaction between the voters and the candidates.
+I think it was a little overhyped about how innovative this would be, added Carson. The innovation was being able to reach different audiences but the format wasnt all that innovative, it was what weve seen before with town hall debates.
+I like that format, thats a good way of broadening it out and making it beyond the gatekeepers, but they didnt make use of the fact it was live and interactivethey had Joe Hildebrand reading out the questions rather than using a video of the questioner. They still had intermediaries in place.
+Shorten at least recognized these limitations; immediately after the debate, he offered to stick around and answer questions that werent selected for the livestream.
+====================
+View more stories in the Rethinking Debates series, a look at debate formats and innovations that increase civic engagement, and sign up for the Rethinking Debates newsletter for the latest posts and news.
+
+
+By: Christine Cupaiuolo
+Jul 28, 2016
+
+
+
+
+
+Share
+
+
+Share on Twitter
+
+
+Share on Facebook
+
+
+Share by Email
+
+
+Topics  ElectionsRethinking DebatesSocial Media 
+
+
+
+
+
+Tech and the Presidentials: Donald Trump dropped by the subreddit /r/The_Donald last night to say hi and let his supporters there Ask [Him] Anythingalthough Cyrus Farivar of Ars Technica reports he only answered 12 questions (I counted 13 but one was of no substance whatsoever, i.e. Are you getting tired of winning?), ignoring questions about encryption, laser strikes, and Snowden.
+
+
+It appears as though Donald Trumps outrageous comments about Russia and Hillary Clintons emails yesterday indirectly caused a spike in searches of Merriam-Webster for the definition of the word treason, Katy Steinmetz reports for Time.
+
+
+Voxs Timothy Lee pointed out that the scariest comment from Trumps press conference yesterday was his professed desire to have the power to hack the email server of the Democratic National Committee, because becoming president would give Trump enormous surveillance capabilities.
+
+
+Writing for the Washington Post, security expert Bruce Schneier warns Americans that by November Russian hackers could target voting machines.
+
+
+After hiring a private investigator, the Tor Project was able to confirm many of the allegations of bullying and sexual harassment against security and privacy expert Jacob Appelbaum, Nicole Perlroth reports for the New York Times.
+
+
+Jason Tashea writes in the ABA Journal that many websites and applications for crowdsourcing community safety data have problems with racial profiling, reporting minorities for suspicious activities like walking on the sidewalk, driving on a street, making a U-turn, or driving too slowly.
+
+
+Ethan Chiel reports for Fusion on how (problematic, racially-biased ) risk-assessment algorithms created to flag parolees corrections officers should pay extra attention to are now routine used at every step of the prison system, and the Wisconsin Supreme Court just gave this practice their stamp of approval, albeit with caveats.
+
+
+New York Magazines Jesse Singal picked up Zeynep Tufekcis Huffington Post story about the Wikileaks nonessential and dangerous dump of the personal emails of random Turkish citizens, and interviewed her about it.
+
+
+Patrick Ruffini explains why he wants to know your friends political likes.
+
+
+Apply: There is a new grant opportunity from Markets for Good, an initiative of the Stanford Center on Philanthropy and Civil Society, called Good Data Grants. In the first year, Markets for Good will select 5 to 15 projects, either research or practical applications, to receive funding from a pool of $200,000. Learn more here.
+
+
+Applications for the second year of the Urban-X accelerator, engineering the city as a service, close September 6. Apply here.
+
+
+
+
+By: Jessica McKenzie
+Jul 28, 2016
+
+
+
+
+
+Share
+
+
+Share on Twitter
+
+
+Share on Facebook
+
+
+Share by Email
+
+
+Topics  First Post 
+
+
+
+
+
+Our Micah Sifry reports from the Democratic convention that the Clinton digital team, with its new Farmville/Hay Day/Tiny Tower-inspired campaign app, aims to make mobile participation fun, and to have fun with Trump when they can. I think if we can distract him for 15 minutes a day, I take that as a win, said digital director Jenna Lowenstein during a Politico/Microsoft event Tuesday. A video that we took an hour putting together hell be thinking about for 36 hours. It appears easy to get under his skin.
+
+
+In the New York Times feature Room for Debate, Micah writes that third party candidates arent going to impact the election much unless either Jill Stein of the Green Party or Gary Johnson of the Libertarian Party passes the 15 percent threshold, the percentage of national electorate support needed to get on the debate stage. But even if that doesnt happen, they could still leave their mark. Major parties have always responded to third-party challenges by co-opting their top issues, Micah writes. Thats how smaller parties have managed to change the direction of the country.
+
+
+Mr. Thiels endorsement puts him at odds with many Silicon Valley chief executives and investors who oppose Mr. Trump on issues like climate change, same-sex marriage and, of course, immigration (they want more visas available for software engineers), Noam Cohen writes in the opinion pages of the New York Times. But Mr. Thiel [is] deeply embedded in the worldview of Silicon Valley that, despite many disagreements with the Republican platform, matches up surprisingly well with Mr. Trumps ideas about fixing government.
+Silicon Valley doesnt hate government categorically, Cohen continued. When Mr. Thiel harked back to the great projects of the past, like building the atom bomb, creating the internet and landing a man on the moon, he was citing three of the most important United States government initiatives of the last century. He praised them in his speech for inspiring the tech dreamers of Silicon Valley, who today inspire America to be great again...Mr. Trumps appeal to someone like Mr. Thiel is that they both believe that government should be brash and bold, while politics as usual produces tame mediocrity. They also believe they are the right kind of people to change that.
+
+
+Thomas Friedman writes for the New York Times opinion section that this election is a battle between Web People and Wall People. Wall People, Friedman writes, want someone to turn off the violent winds of change at work, in their neighborhoods, and in every city around the globe where violence is threatening safety and stability. Both Trump and Sanders speak to the Wall People.
+Web People on the other hand, know that a 21st-century party needs to build its platform in response to the accelerations in technology, globalization and climate change, which are the forces transforming the workplace, geopolitics and the very planet...As such, the instinct of Web People is to embrace the change in the pace of change and focus on empowering more people to be able to compete and collaborate in a world without walls. In particular, Web People understand that in times of rapid change, open systems are always more flexible, resilient and propulsive; they offer the chance to feel and respond first to change. The Clintons and Tim Kaine, a Web Person with a soul, are of this camp, although Clinton hasnt stuck to her Web People guns the way Friedman would have liked her to.
+
+
+D.C. Metro spokesman Dan Stessel has said that late night ridership has gone down as a result of car service apps like Uber and Lyft, David Alpert reports for Greater Greater Washington, a fact he uses to defend proposed changes to permanently roll back service hours on weekends to end at midnight. Where that leaves the workers at the bars, restaurants, and other nightlife spots who are catering to the Uber/Lyft-taking crowd is TDB.
+
+
+A New Yorker has proposed turning a homeless encampment into a Pokestop to draw attention to the problem, Katie Honan reports for DNAinfo.
+
+
+
+
+By: Jessica McKenzie
+Jul 27, 2016
+
+
+
+
+
+Share
+
+
+Share on Twitter
+
+
+Share on Facebook
+
+
+Share by Email
+
+
+Topics  First Post 
+
+
+
+The most interesting tech news to come out of the Democratic convention so far is the launch of the Hillary Clinton campaigns new mobile app. The campaigns digital director, Jenna Lowenstein, describes it as a field office in your pocket. Designed to give people in non-battleground states concrete actions they can do that will help the campaign win, the appwhich is available here on iTunesaims to gamify the process of voter mobilization.
+Every day, users get four challenges, such as checking in for an organizing event, sharing a post or video to get the word out, filling out a commit-to-vote card, or sharing insights from policy quizzes with family or friends. Then they compete against everyone else in their social network on a common leader-board, with winners offered bonuses like signed campaign merchandise and special campaign updates from senior officials.
+The welcome screen for the Hillary 2016 app
+If those asks seem somewhat pedestrian, thats because this app isnt about getting campaign supporters to take on the traditional tasks of phone-banking or going door-knocking. (The campaign is using and building those tools, too.) Rather, its aimed at tapping into a wider pool of latent supporters who may get motivated to do more by first playing along with some easier asks. Campaign sources say it was inspired by popular games like Farmville, Hay Day, Neko Astume, and Tiny Tower, and is designed to fit into supporters busy schedules.
+Its features sync up with Twitter, Facebook, and SMS, and will be continually updated over the course of the campaign, campaign officials say. Members of its design team include senior product manager Stephanie Cheng, who most recently co-founded the mobile game company Kooapps; senior product designer Denny McFadden, who led product design at charity:water before joining the campaign; director of mobile Bruno de Carvalho, who was head of mobile at Livestream and Timehop; and developer Matt Vermaak, who worked for Grubhub/Seamless.
+Speaking at a Politico/Microsoft event Tuesday afternoon in Philadelphia titled Digital Campaigns: How Can Democrats Win With Tech?, Clinton digital director Jenna Lowenstein said that the Hillary 2016 app was only two days old but already getting really positive feedback. Indeed, as of Tuesday evening, its overall rating in the iTunes store was four and a half stars out of five, across 463 user ratings.
+Challenge cards from the Hillary 2016 mobile app
+There were few other revelations about tech and the campaign at the Politico/Microsoft event, as campaign professionals Lowenstein; Keegan Goudiss, the director of digital advertising for Bernie 2016; Betsy Hoover of 270 Strategies (which is advising the Clinton campaign); and Stuart Trevelyan, the CEO of NGP VAN, did their best to project a unified and optimistic view of the Democratic national operation and to disparage the efforts of their Republican opponents on the same playing field. Nor did they have much to say about the latest hacking scandal other than promising that campaigns, which are heavily dependent on collecting and analyzing voter data, would do all they could to protect that data from electronic thieves.
+That said, Lowenstein offered one very telling anecdote about how the Clinton campaign is responding to Donald Trumps use of technology, or rather, his use of social media. Someone said that their favorite thing about the Trump-Clinton Twitter war is that hes obsessed with it and she has no idea its happening, she half-joked, adding, Hes a serious threat.
+But Lowenstein let on that her digital colleagues were enjoying the opportunity to disrupt the focus on the Trump campaigns biggest asset, that being the attention of the candidate himself. I think if we can distract him for 15 minutes a day, I take that as a win. A video that we took an hour putting together hell be thinking about for 36 hours. It appears easy to get under his skin.
+
+
+By: Micah L. Sifry
+Jul 26, 2016
+
+
+
+
+
+Share
+
+
+Share on Twitter
+
+
+Share on Facebook
+
+
+Share by Email
+
+
+Topics  Election 2016Elections 
+
+
+
+
+
+A DNC spokeswoman told Politicos Li Zhou that their social media strategy will focus on retweeting regular people watching or attending the convention. The added level of access, voices and stories thanks to technology is incredible, said Kelli Klein, the Democratic National Convention digital director.
+
+
+Zhou also reports that the convention has a transportation partnership with Uber for the next few days.
+
+
+James Surowiecki reports for the New Yorker that the much-derided Ice Bucket Challenge had surprising, long-lasting benefits, including much higher public awareness and previously-unthought of resources for research and patient care, which hastened work that led to a breakthrough paper published in Science, nor did any of the phantom consequences (like the subsequent neglect of other charities) materialize. Individual donations in the U.S. overall rose nearly six percent in 2014.
+
+
+Greenpeaces head of engagement strategy and planning, Matt Browner Hamlin, explains on Medium how an open-source content management platform called Planet 4, currently under construction, will provide the underlying architecture for a new Greenpeace strategy that emphasizes engagement over information blasts and openness over formality and polish.
+
+
+The organization Digital Democracy is equipping indigenous communities in remote parts of the Amazon with the tools and the knowledge they need to create maps of their villages and surroundings. Watch a short video about their work here.
+
+
+The 300,000 or so Erdogan emails that WikiLeaks tweeted a link to after an attempted coup in Turkey contained personal, identifiable information on every female voter in 79 of 81 provinces, Zeynep Tufekci writes for The World Post, but nothing that could be called newsworthy or otherwise justify exposing so many women to risk, although Western news outlets failed to mention that in their coverage of the dump.
+
+
+Meanwhile, Facebook has admitted that another algorithm accident caused the links to Wikileaks files about the Democratic National Committee emails to be blocked briefly on the platform, William Turton reports for Gizmodo.
+
+
+Although violent protests never materialized at the Republican National Convention in Cleveland, the streets were kept under intensive aerial surveillance by at least five helicopters, three operated by the Department of Homeland Security and two by an apparent front company, Peter Aldhous reports for BuzzFeed. Both Cleveland and Philadelphia were surveyed in June by a company that makes maps for the U.S. military.
+
+
+Robot future: Tronc, the publishing company formerly known as Tribune, is hiring, and in a posting for a content specialist, the number one job responsibility is to develop, maintain and upgrade content harvesting robots, Kashmir Hill reports for Fusion. Your chance to help make the robots coming for your jobs!
+
+
+There are so many ways the Internet of Things could go wrong. Security technologist Bruce Schneier outlines many of them for Motherboard.
+
+
+Patrick Ruffini is surveying people about their Facebook friends political likes to see whether they consciously or subconsciously influence their votes. Participate in the research here.
+
+
+
+
+By: Jessica McKenzie
+Jul 26, 2016
+
+
+
+
+
+Share
+
+
+Share on Twitter
+
+
+Share on Facebook
+
+
+Share by Email
+
+
+Topics  First Post 
+
+
+
+
+
+If you dont have anything nice to say, dont put it in an email: The chairwoman of the Democratic National Committee, Debbie Wasserman Schultz, announced that she would resign on Sunday after leaked emails revealed that Schultz had worked with other party officials to undermine Hillary Clintons rival Bernie Sanders during the primary, Anne Gearan, Philip Rucker, and Abby Phillip report for the Washington Post. The emails also included insulting messages about some of the partys big donors.
+
+
+Alive and well: Some evidence shows that the source of the email dump was the work of a Russian intelligence group, orchestrated by the Russian government, Patrick Tucker reports for Defense One. This has all the hallmarks of tradecraft. The only rationale to release such data from the Russian bulletproof host was to empower one candidate against another. The Cold War is alive and well, Tom Kellermann, the CEO of Strategic Cyber Ventures, told Defense One.
+
+
+The Clinton campaign has launched a Farmville-inspired campaign app to gamify the election, Brian Heater reports for TechCrunch.
+
+
+Two white women have launched a grassroots social media campaign called White Nonsense Roundup to unburden people of color from having to educate people white-splaining race or racism to them in their mentions, Anna Swartz reports for Mic. If you are a Person of Color (POC), you have enough on your plate! the two women, Terri Kompton and Layla Tromble write in the Facebook group for the campaign. Its not your job to educate white people about privilege, racism, and whats really going on in the world. If a white person is filling your social media with white nonsenseanything from overt racism to well-intentioned problematic statementstag us and a white person will come roundup our own.
+
+
+Cathy ONeil writes on her blog mathbabe that an American company called ZestFinance (led by ex-Googler Douglas Merrill who likes to say all data is credit data and claims he cannot figure out why people who spell, capitalize, and punctuate correctly are somehow better credit risks. Between you and me, I think hes lying. I think he just doesnt like to say he happily discriminates against poor people who have gone to bad schools) is working with the Chinese search engine Baidu to assign credit scores to Chinese citizens based on browsing history.
+
+
+Peter Thiel doesnt care about clerks and shopkeepers, Gideon Lewis-Kraus writes for the New York Times Magazine. He cannot sympathize with the cook who might stake his or her self-image on having Castro Streets best naan. For him, there is only the Zarathustran heroism of clawing from null bis eins, of escaping the herdlike mentality of das Mann for the freedom of the Ubermensch. Thiel, who cant resist any chance to deride universities, does not want to see intelligence as itself a fixed costsomething in which an institution might investbecause he simply believes that a person is either creative and courageous and worthwhile or he is not. The question the public should be asking, Lewis-Kraus concludes, is how representative Thiels beliefs are of Silicon Valley on the whole.
+
+
+Meanwhile, Voxs Timothy B. Lee hypothesizes that Peter Thiel doesnt himself believe in Donald Trump, he just wants to see explosive political disruption in Washington. Lee points out that just two years ago Thiel said Trump was symptomatic of everything that is wrong with New York City.
+
+
+ICYMI: Elizabeth Stoycheff and Erik C. Nisbet write that the internet is detrimental to democratization efforts, because of its power to distract users. According to their study, Those who spent more of their online time engaging with entertainment content were more satisfied with living under autocratic conditions. These users were happy with the authoritarian elites who oversaw them and were uninspired by the prospects of greater freedom. In other words, online political use enhanced democratic attitudes, while online entertainment use entrenched authoritarian ones. And it gets worse. (h/t Stefaan Verhulst, curator of the GovLab Digest)
+
+
+
+
+By: Jessica McKenzie
+Jul 25, 2016
+
+
+
+
+
+Share
+
+
+Share on Twitter
+
+
+Share on Facebook
+
+
+Share by Email
+
+
+Topics  First Post 
+
+
+
+
+
+Challenges in civic tech: Code for Americas Brigade program was singled out in a recent Omidyar Network and Purpose report as being one of the primary drivers of geographic diversification in civic tech. However, as I report for Civicist, the program is halfway through a months-long redesign process, prompted by longstanding frustrations within its volunteer leadership and the need to find a more sustainable model.
+
+
+L.A. announced it will be participating in the Google Government Innovation Lab, or Angels Lab, where teams will work with Google in five impact areas to reach ambitious goals or moonshots, as Jason Shueh reports for Government Technology magazine.
+
+
+ICYMI, or Trumps marathon acceptance speech obliterated it from your memory, Peter Thiel spoke at the Republican convention last night, and used the floppy disks that U.S. defense agencies still use (yes, really) to explain why government is broken, Kashmir Hill reports for Fusion. On the one hand, just like in Battlestar Galactica, old systems are hard to hack and a good security measure; on the other, the DoD is planning to ditch the floppies by 2017.
+
+
+Writing for The Intercept, Sam Biddle pointed out some of the glaring instances of hypocrisy in his speech. Where I work in Silicon Valley, its hard to see where America has gone wrong...We dont accept... incompetence in Silicon Valley, and we must not accept it from our government, Thiel said. Of course, even the briefest survey of Silicon Valley reveals a culture that is rife with incompetence, where the basic rules youd follow running a lemonade stand  taking in more than you spend, for example, or adhering to basic quality standards  are discarded in favor of explosive growth and runaway valuations, Biddle counters, noting that Thiel also left out the part where the Silicon Valley bubble, puffed up by VCs like Thiel himself, is slowly deflating.
+
+
+Lisa Abeyta reports for Inc. on how private companies are profiting off of FOIA.
+
+
+Civic Hall member Maria Yuan writes in the Huffington Post that with both presidential nominees speaking out about money in politics (after Bernie Sanders passed the torch to Hillary Clinton), now is the time to pressure representatives into supporting campaign finance reform laws.
+
+
+A Wall Street Journal reporters says that Homeland Security demanded access to her mobile phones when she was going through immigration at the L.A. airport, Joseph Cox reports for Motherboard.
+
+
+Edward Snowden is working with a hardware hacker named Andrew Huang to prevent smartphones from making transmissions that give away more information than they want, potentially putting their activist or journalist owners in danger, Micah Lee reports for The Intercept.
+
+
+
+
+By: Jessica McKenzie
+Jul 22, 2016
+
+
+
+
+
+Share
+
+
+Share on Twitter
+
+
+Share on Facebook
+
+
+Share by Email
+
+
+Topics  First Post 
+
+
+
+
+
+Code for America staff, fellows, and Brigade captains at the 2015 Code for America Summit (Photo: Code for America/Drew Bird)
+
+Come on now were marching to the sea Got a revolution Got to revolution Who will take it from you?  We will and who are we? We are volunteers of America Jefferson Airplane
+Americas civic tech army is experiencing some growing pains.
+Since its launch in 2012, Code for Americas volunteer-led Brigade program has become one of the most influential civic tech bodies in the country, with chapters in 80 cities and tens of thousands of volunteer participants. A recent study by the Omidyar Network and Purpose found that the majority of grassroots civic tech activities in the U.S. over the past few years have been associated with Code for America (CfA) and that the Brigade networkwhich costs CfA more than a million dollars a year to runhas largely driven the geographic diversification of civic tech, from hubs in New York, San Francisco, Chicago, and Philadelphia to outposts in places like Wichita, Kansas, and Birmingham, Alabama. If you wanted evidence that civic tech is spreading, the CfA Brigade program has been Exhibit A.
+But after five years, the program is getting redesigned, prompted both by longstanding frustrations within its volunteer leadership as well as the need to find a more sustainable model. Brigades challenges have taken on increased urgency because CfA suffered from a fundraising shortfall last year, as CfA founder and executive director Jennifer Pahlka explained in an email to Brigade organizers at the end of December. (Her email, and others to the organizer listserv, can be found in Code for Americas Brigade program Google group.) Meanwhile, in part because of the budget crunch at headquarters, brigades have been operating since the beginning of this year without the stipends from CfA that have helped support meetings and events in previous years.
+Pahlka addressed these issues in her end-of-year missive to Brigade captains and core team members, writing:
+I dont think we have been as open and transparent with you as we should be, but more importantly, we have long needed to share more openly the opportunities and challenges of the Brigade program, and invite the community to be a part of the solution in the coming year and beyond.
+
+Later in the same email she added:
+I know that we have made some clumsy attempts at things like better alignment between the Brigades and the other CfA work and long-term sustainability for the program. A number of times we have communicated direction to the Brigades that was not entirely thought through on our end, and at the same time not sufficiently invitational. We need to both get better alignment internally and strategize more openly and collaboratively to get past some of the false starts.
+
+In February, Code for America commenced a 10-month co-creation process, which the organization describes as a human-centered design process to allow us to better understand the goals of the Brigade members, and find unprecedented solutions that are rooted in [brigades] actual needs. The purpose, governance, and model of the Brigade program are all under scrutiny. Through a survey, one-on-one interviews, small-group sessions, and several sometimes-tense webinars with Brigade captains, Code for America has been soliciting suggestions from Brigade leaders on how to build a sustainable, impactful model that fits the needs of both the brigades and the organization.
+To CfAs credit, much of the process has been transparent and open: the organization has posted the webinars on YouTube and shared survey results and other relevant materials in a public document. This article draws on those materials, in addition to interviews with past and present Brigade organizers and CfA staff.
+The initial call to arms
+Code for America was founded in 2010 to help city governments better leverage the power of the web. Inspired by the Teach for America model, the organization began luring talented techies into devoting a year of their lives to fellowships with participating city government agencies. CfA fellows worked alone or in small teams to develop digital tools and solutions for local challenges, and in exchange, cities chipped in enough to support a portion of the fellows monthly stipends and other program costs.
+After only a year, the number of technologists who wanted to help improve government far surpassed the number of cities partnering with CfA. In 2011 alone, more than 550 people applied to be a part of its 2012 cohort of 26 fellows. That same year, Google awarded the organization $1.5 million to expand the fellowship and build out two new programs, including the Brigade, a grassroots network of volunteer civic hackers. The Brigade program was created to give current and aspiring civic technologists a way to participate in CfAs mission in their own city or town, even if they werent one of the lucky few to land a fellowship.
+Most brigades, following in the footsteps of pre-existing groups like Chicagos Chi Hack Night, adopted the hack night model, meeting once a week or once a month to work together on a wide range of projects, from building twitterbots that automatically share pet adoption notifications to public transit-tracking applications to websites that make city budgets more open and accessible.
+The Brigade network (Photo: codeforamerica.org)
+There was a lot of momentum and excitement around what it could be but it was really a broad ask, Nicole Neditch, CfAs senior director of community engagement, told Civicist. All of the brigades look different from one another. They all have slightly different focuses and areas that they are working in.
+CfA had its own organizational priorities for the Brigade program, too, including promoting network-wide events like the annual National Day of Civic Hacking, which started in 2013, and the CodeAcross weekend, which began in 2012 and coincides with International Open Data Day. At the end of 2014, Pahlka announced that the organization would begin prioritizing three focus areashealthy communities, safety and justice, and economic developmentin order to concentrate its resources and deepen its impact. CfA has encouraged brigades to work in these areas as well.
+While CfA tries to figure out the future of the Brigade program, the organization as a whole has been simultaneously shifting towards an outcomes-based model. Were moving from a show-whats-possible framework to a doing-whats-necessary framework, Neditch explained during a webinar for Brigade organizers this June. More specifically, as Neditch and Pahlka jointly wrote in an open letter to the brigades published last week, their first attempt at real scale will be to take a streamlined online application for food assistance in California called GetCalFresh and spread it statewide, and then to other states with similarly low enrollment rates.
+CodeAcross Long Beach 2014 (Photo: Molly McLeod)
+Since the Brigade program began, CfA has struggled to balance the priorities of individual brigades, which generally lie with their local communities, and those of the organization, which is invested in demonstrating a strong, united front around national events, focus areas, and signature tools like GetCalFresh, and the two sides have sometimes been at odds. Pahlka and other staff members frame these conflicts as primarily a problem of miscommunication, but the result has been lost trust and frustration within the Brigade network. Staff turnover at CfA, including the late 2015 departure of Catherine Bracy, CfAs longtime director of community organizing, followed by Hannah Young, the Brigade program manager, has aggravated the problem.
+Reports from the frontline
+At the beginning of the year, Brigade coordinator and researcher Monique Baena-Tan sent out a survey to Brigade leaders to kick off the co-creation process. She shared some of the responses during a webinar on March 31 that was later posted to YouTube.
+One organizer wrote:
+The loss of Bracy and Hannah, whom many of us had a strong relationship with, followed-up by emails from new leadership with a condescending tone and lack of respect for the work and dedication of our community has created a rift I hope youll understand is unacceptable.
+
+Another said:
+My feeling is that outside of the Brigade Team, CfA doesnt always treat its Brigade leadership as equal members of this civic tech movement the way they do with Fellows or other non-volunteers. It feels like perhaps the Brigades are perceived as a liability, or as a groups [sic] that needs wrangling.
+
+When asked about this sentiment, Pahlka told Civicist, If folks feel wrangled, then thats a sign that theres been too much talking at and not enough sharing of inspiration and tools. Thats part of what this co-creation process is meant to address.
+In general, there are certain brigades that are very sympathetic to the challenges and those [that are] more frustrated, Pahlka added. I appreciate and validate bothand its not binary, its a spectrumboth are totally valid and understandable.
+I dont have much to add here, Catherine Bracy wrote in an email responding to Civicists request for comment. Except that when I reflect on my time at CfA, and when I see the results of the Purpose/Omidyar report, I feel even more strongly about the need to develop the skill of community organizing (and a deep understanding of how power works) inside the civic tech community.
+Hannah Young could not be reached for comment.
+Division within the ranks
+Preston Rhea worked as the civic engagement program coordinator from March 2014 to June 2015, when the network was growing quickly and CfA was still flush with support. He helped come up with standards that would define official and unofficial brigades, a designation that was directly tied to whether or not brigades could receive financial support or in-kind donations from CfA.
+Early on, I was involved in coming up with a sort of pathway for brigades, because you know Code for America wouldnt want just anyone calling themselves a brigade, Rhea told Civicist. This pathway came to include the development of a leadership team and a strategic plan, among other requirements.
+Many brigades never bothered to become official, either because they lacked the capacity to do so or because they didnt see that the time and effort needed would be worthwhile.
+Britten Kuckelman, who became a co-captain of Open Wichita earlier this year, didnt even know whether her brigade was official or not when she spoke to Civicist. In a follow up email she wrote, I had a conversation with my co-captains yesterday and we are not an official brigade. The reason behind that is we just never prioritized it and have been so focused on local we havent made a point to try to become one.
+Derek Eder of Chi Hack Night told Civicist that his group has never become an official brigade because their work predated CfA and he wanted to maintain the groups independence, although at one point CfA did sponsor them.
+Rhea told Civicist that creating standards for official brigades sometimes went against his instincts as a community organizer, and that he can understand the frustration of Brigade leaders. Inevitably, he said, especially because theres a lot of people who started brigades on their own and had a lot of ties in their community and set them up themselvesits going to be frustrating when you see a certain path forward that you want to pursue and for one reason or another you get caught up with stuff you have to deal with from HQ.
+Captains who did choose to make their brigades official found that financial support from CfA did not come without strings, and was used as a kind of soft power over the brigades.
+The brigades cant tell Code for America what to do...and Code for America also cant necessarily tell Brigade what to do, but Code for America does have the ability to withhold funding and support, said Rhea.
+A 2013 email from former Brigade coordinators Kevin Curry and Hannah Young makes this connection between funding and CfA priorities explicit. They wrote:
+Please keep in mind: Support is available only for activities that are clearly aligned with Brigade. Your project and expense plans will be used in determination of funding support. Priority is given to reimburse activities and events that we have asked for from you. Brigade will also reimburse your approved project ideas as funding is available for project plans [that] demonstrate strong alignment with Brigade goals and strategic outcomes.
+
+Last year Code for America had to stop reimbursing brigades for event costs, in some ways making this issue redundant, but also putting many brigades in a tight spot. Brigades without local funding could apply to CfA for transition funds to cover the first quarter of the year, and CfA distributed $500 to all 14 brigades that applied.
+Nicole Neditch told Civicist that the standards for official brigades were once necessary because of the way nonprofits have to account for funds, but said that they might not have to make brigades jump through those hoops now that the stipends have been discontinued.
+Tait Wayland, the captain of Code for Birmingham, says he sees both sides of the issue. On one hand, he can appreciate the importance of compelling brigades to have things like a code of conductwhich all brigades, official or unofficial, must havebut he also agrees that Code for America used the stipends to control what brigades worked on.
+As far as what projects we should work on and focus on, I think theyit seems like their idea of that has evolved over the past couple years a lot, to tell you the truth, Wayland told Civicist. At first it seemed too controlled, like the constraints that they wanted brigades to focus on. But then, you know, with funding not coming in it seems like theyve sort of backed off on what they wanted us to work on.
+I dont really know currently what the rules are as far as what projects we should focus on anymore and whether or not thats constrained to any funding that may be coming in the future, he added.
+Wayland told Civicist that the loss of the stipends hit Code for Birmingham pretty hard, and that brigade activities have been more dormant this year. Losing funding was the biggest factor to things kind of unwinding, he told Civicist. Wayland is currently training a new captain, and plans to step back from leading the brigade soon.
+Complaints about pressure to work on specific things cropped up in the responses to Baena-Tans survey. One organizer wrote:
+The Brigade program does a few things really well that are critical to the success of the civic tech movement: working local, building talent, and sharing ideas. CfA needs to lean into the things the program does well, and stop trying to make it fit a different narrative in areas that it is weak, like conforming to Focus Areas which may or may not be relevant locally.
+
+Although some brigade captains might not have liked how the stipends were distributed, many brigades relied on them, and the sudden loss of a reliable source of support has in itself been a source of discord.
+Forging ahead
+The ten-month co-creation process began in February with a three-month research period, anchored by two webinars on March 31 and April 26. It was followed by an ideation period that began in May and will run through the end of summer, during which CfA is hosting small group sessions on specific topics like funding and governance models. The organization will begin implementing changes in the fall.
+Chris Whitaker, the current Brigade program manager, described it during the March 31 webinar as unprecedented in its scope, but it is not the first time CfA has tried to rejigger the Brigade program. Last year, the organization hired consultants to look into whether an affiliate model could be instituted for more mature brigades, but after months of conversations with Brigade organizers, the model was found to be impracticable. This dead-end frustrated some of the captains who spent hours exploring the option, and who now say they are hesitant or unwilling to participate in the co-design process.
+I spend a lot of time engaging w. CfA last year, and less time building a local community. This year, Its going to be hard to convince me to spend a bunch of time on the phone again, when I could be continuing to fundraise locally [sic], wrote one organizer in the webinar chat.
+Code for Phillys executive director Dawn McDougall said that participating in the research last year was detrimental to her brigade. The community wasnt getting what it needed, she told Civicist. She decided to sit the co-design process out and focus on her brigade this year.
+By CfAs count, at least a hundred organizers have participated in the process at least once, but that is still only a fraction of the 520 Brigade leaders in the network.
+Baena-Tan and Neditch say they are pleased with the way the co-design process is going so far.
+I looked at the tension [during the first webinar] as being a really great thing because people were able to actually participate in a way that they hadnt been able to before, Neditch told Civicist.
+At this point in the process, it is impossible to know how exactly the Brigade program will change in the months and years ahead. It seems likely that the differences between official and unofficial brigades will become less important, and that CfA will be more encouraging of brigades prerogative to work on local issues. However, without financial support, it is also likely some brigades will fade back into their local woodwork.
+We really want to shift [the] model and create low-barrier ways to participate and create greater independence for people to pursue the things that are going to benefit their communities, Neditch said.
+Although CfA staff tell Civicist that they have always wanted and encouraged brigades to work on local issues, in communications this year they have particularly stressed that point.
+I really wanted to emphasize the fact that local issues are important and that you can work on your local issues, Baena-Tan explained during a training for new captains earlier this year. She added:
+I think when weve communicated Code for Americas concentration within the Focus Areas I think people have beentheres been a little bit of miscommunication and theyve felt discouraged in thinking that they have to lead their Brigade to only be working in those four Focus Areas, and I just wanted to really emphasize that thats not the case.
+
+Just because we are focusing on these [focus] areas and taking a couple of products to scale doesnt mean that you have to focus on these areas as well, and it certainly doesnt mean that building the field is no longer a priority at Code for America, Neditch and Pahlka wrote in their open letter to brigades last week. You can and should address local issues.
+However, CfA will continue to be invested in greater organizational alignment between Brigade and headquarters. In her interview with Civicist, Pahlka spoke of the importance of telling a shared story. When we think about resources, be they funding or people or time or attention, resources go towards coherent narratives, she said. The need for a shared story is also one of the central recommendations in the Omidyar/Purpose report for how civic technologists can grow the movement.
+Pahlka said some Brigade organizers share this desire. Certainly a lot of Brigade folks have wanted to be able to pursue the priorities in their own community, she told Civicist. And a lot of Brigade folks have wanted to do something together that adds up to something more than the sum of its parts.
+
+Indeed, many of the organizers wrote in response to Baena-Tans survey that they wanted to be better connected to the network, and the majority of them also said they highly value the connection to CfA; 58 percent characterized the association as very important (a five or six on a scale of six). However, when asked How satisfied are you with your Brigades current engagement with Brigade HQ? only 27 percent responded that they were very satisfied. While this isnt a complete picture of the networks viewsof the 520 core team members invited to take the survey, only 35 respondedit does give some idea. (After the first webinar, some organizers asked Baena-Tan to reopen the survey to allow more people to respond, but only six additional surveys were submitted and Zoe Blumenfeld, CfAs marketing manager, said that the additional responses had little effect on the original data.)
+
+There is also no getting around the fact that the majority of Brigade organizers (63 percent) said they needed more financial supportwhich is precisely what CfA says they are not in a position to offer.
+Sustainability of what are essentially volunteer-run local programs is an elusive goal. Earlier this year, Civicist interviewed the co-founders of OpenOakland, Eddie Tejeda and Steven Spiker, after they announced that they were stepping down as captains because they were burned out. They told Civicist that they had tried and failed to find appropriate funding to support their work on OpenOakland, which had eaten into the time they had for their jobs and their family for too long.
+Code for Birminghams Tait Wayland also spoke candidly about burnout with Civicist, and the impossibility of perpetually running a brigade and working full-time, especially in a small city where city government is uncooperative and there might not be a ready supply of community members willing to share or take on a leadership role.
+Even if we had all the funding and support in the world Id probably still be doing it, he said, of his decision to soon step down.
+One thing that doesnt make it into the headlines is how much sacrifice goes into this work, Code for Phillys Dawn McDougall said.
+Both are understanding of the challenges on CfAs end, too. I cant hold anything against them, Wayland said. I can complain but I cant really provide a solution.
+What were realizing is that we cant rely on other organizations, McDougall said. Code for Philly is still exploring options for becoming more of a stand-alone organization. Of the groups relationship with CfA, she said, Id love to keep just having some way to keep supporting one another without it being harmful to either side.
+When asked if she could point to any model brigades that have achieved sustainability, Pahlka said, All of them are sustaining. Not perfectly, but like I said, weve hit some hard times.
+Where you see burn out, she added, that feels like, ok this is a sign where weve got to change something. It hasnt been burn out to the extent that anyone has packed up and gone home. They still believe in the mission and theyre still there...Weve just got to keep this talking up.
+There is also the possibility that expectations for the Brigade and for Brigade leaders are simply too high. The way Tait Wayland sees it, nobody should be leading a brigade for more than two or three years, and the reality is that in smaller cities like Birmingham there might not be a ready replacement. Perhaps there shouldnt be the expectation or even hope that one or two superhuman captains will lead a brigade indefinitely.
+Perhaps the expectation that all brigades can and should secure local funding is unreasonable as well. It is one thing to ask that of a brigade in a major city and innovation hub like New York or San Francisco, where experts in nonprofit funding and local resources are close at hand. Brigades like Code for Birmingham operate with fewer people, fewer resources, and, in some cases, greater resistance from local government. Although Wayland acknowledges that CfA has been good at getting fundraising materials and guides to organizers, he says brigades like his simply dont have the capacity to use them.
+Preston Rhea also agrees that expecting brigades to find local funding is unreasonable. You cant just be like, people who volunteer their time: now you need to learn how to fundraise, he told Civicist. Direct support is a really powerful thing.
+Building local fundraising capacity is also great, he added, but it needs more time.
+I asked Pahlka if we should lower our expectations for what brigades can do without direct support from CfA headquarters.
+I dont know, she replied. She said that when she began Code for America and started signing all of the thank you letters to funders, that there was a small stack of thank yous for significant sums. Now, she said, theres a pile of notes and many of them are for relatively small sums. Theres a notable source of change for me in the sources of the money. One of the things we theorized is we can arm folks with those tools. I didnt raise money either before I started CfA. I learned to ask for money.
+When asked how CfA will continue to be more open, transparent, and participatory after the co-creation process is over, Pahka said, The community will have to hold [us] accountable to that and we will have to hold ourselves accountable to that.
+We are going to figure this stuff out, she added at the very end of our interview. Theres so much good. Such good people. So much potential. Every time I get down about it, people tell me this is normal and that communities go through this. We just have to keep this positive spirit and everything will be ok.
+Disclosure: Code for America is an organizational member of Civic Hall.
+
+
+By: Jessica McKenzie
+Jul 21, 2016
+
+
+
+
+
+Share
+
+
+Share on Twitter
+
+
+Share on Facebook
+
+
+Share by Email
+
+
+Topics  Civic HackingCivic Tech 
+
+
+
+
+
+This is civic tech: Just what is this little $14 million boutique coding shop doing that threatens the powers that get the lions share of $80 billion of federal IT spending? Thats the question about the U.S. Digital Service that Backchannel editor Steven Levy answers in glorious detail in a lengthy piece about its work with the Departments of Veterans Affairs and Defense.
+
+
+And yes, the office of the Defense Digital Service does have the words Rebel Alliance on its door. Levys got the photographic proof.
+
+
+Also in Backchannel, longtime tech journalist (and Civic Hall member) Dan Gillmor reports on Guifi.net, which he calls one of the worlds most important experiments in telecommunications. Guifi is a community network that has long since transcended its local roots. From a single node more than a decade ago, it has become a vast mesh-and-more system linking tens of thousands of people in hundreds of communities to each other and the global internet. He adds:
+For people who want to see an internet at least partly liberated from the grip of rapacious, government-connected telecommunications giants, Guifi is one of the most hopeful developments to date. Its core values, ownership, and operations are testament to the idea that you and I, and our communities, can  and should  control how we communicate. For the tens of thousands of people using it, some at no charge, Guifi operates as well as Time Warner Cable does for New Yorkers (and maybe better).
+ 
+
+
+Louisville, Kentuckys Ed Blayney reports on how the citys accelerator team drove a hackathon focused on helping reducing fires in vacant properties, and the winning solutiona low-cost sensor that listens for for the alarm sound of a standard issue smoke detector and then send a signal to the appropriate entity via a 3G device.
+
+
+Jessica Singleton, New York Citys chief digital officer (and longtime friend of Civic Hall), has announced that she is stepping down after two-and-a-half years and heading to Harvard Business School. Godspeed!
+
+
+Tech and politics: When Peter Thiel, the outspoken billionaire tech mogul, takes the stage at the Republican National Convention tomorrow night on behalf of Donald Trump, most of Silicon Valley will be cringing, writes Farhad Manjoo for The New York Times.
+
+
+Pokemon Go Vote: The Hillary Clinton campaign in Ohio is setting lures near PokeStops and registering potential voters as they play Pokemon Go, Emily McCarty reports for Bitchmedia.org.
+
+
+Wanna get a postcard message to your least favorite representatives? Check out TheWorst.is, a new site that lists the worst politicians on a number of issues (gun control, immigration, climate change, etc), and helps you mail them physical protest postcards to their office, built by Travis Valentine of Civic Hall.
+
+
+What sharing economy? The words platform cooperatives are never mentioned in Amy Corteses New York Times story on Stocksy.com, a photography coop, but her article is all about the emerging trend of online gig economy start-ups that are designed to be owned by their users.
+
+
+Airbnb has hired former U.S. Attorney General Eric Holder to help it craft a new anti-discrimination policy for its platform, Kate Conger reports for TechCrunch.
+
+
+
+
+By: Micah L. Sifry
+Jul 21, 2016
+
+
+
+
+
+Share
+
+
+Share on Twitter
+
+
+Share on Facebook
+
+
+Share by Email
+
+
+Topics  First Post 
+
+
+
+
+Todays must-watch: Take three minutes to watch this brilliant piece of immersive journalism from BBC Media Action, called Your phone is now a refugees phone. Its best watched on a mobile.
+
+BBC Media Action also just published a very useful report on how refugees access and use information.
+
+
+Tech and politics: Caitlin Dewey and Abby Ohlheiser report for The Washington Post on some of Donald Trumps most devoted online supporters, including Milo Yiannopoulos of Breitbart Tech, conspiracy theorist Alex Jones, two African-American women YouTube vloggers named Lynette Hardaway and Rochelle Richardson, and meme-maker Richard Flint, whose photoshopping of Hillary Clintons face with a six-pointed Jewish star and a pile of money recently drew attention for its anti-Semitic overtones.
+
+
+Security researchers from Avast Software set up fake WiFi networks around the Republican convention to show how easy it would be to hack attendees accounts, reports Paul Szoldra for Tech Insider.
+
+
+Cutting to the core: Veteran news blogger Josh Marshall suggests that the best way to understand any of the Trump campaigns moves is to apply Trumps Razor, a variation on Occams Razor that says the stupidest scenario is always to be preferred.
+
+
+The Revolution will be...continued? Now that Bernie Sanders has endorsed Hillary Clinton for President, he is planning to keep his political revolution going with a new organization called Our Revolution that will help recruit, train and fund progressive candidates, reports Nicole Gaudiano for the Burlington Press. Its going to be run by 27-year-old Shannon Jackson, who started out as Sanders driver in 2009.
+
+
+And the winner is: With Hillary Clinton set to announce her Vice President nominee this Friday, I offer this prediction, using the Wikipedia edits bellwether method that accurately forecast Paul Ryan as the GOP VP candidate in 2012 and Sarah Palin in 2008. Based on the names currently being floated, and the number of edits to their Wikipedia page in the last week, Clinton is going to pick retired Navy Admiral James Stavridis. His page has been edited 18 times in the last seven days, compared to 14 times for Colorado governor John Hickenlooper, 12 edits on former Virginia governor Tim Kaines page, and just ten for Senator Elizabeth Warren and former San Antonio Mayor Julian Castro. (If total edits since the beginning of June were the metric, the clear frontrunner for the VP pick would be Warren, whose page has been edited 173 times since then, far more than any of the other likely candidates.)
+
+
+Twitter abuse: After Leslie Jones, one of the co-stars of the Ghostbusters remake, quit Twitter due to all the racist abuse she received there, Jack Dorsey, the companys CEO, reached out to her to promise to do a better job handling such behavior, reports Jackie Strauss for The Hollywood Reporter. Among the accounts now suspended for violating Twitters terms of service, which prohibit the targeted abuse of individual users: Milo Yiannopoulos, the alt-right journalist, who led the attacks on Boggs.
+
+
+Changing tech: NPRs Alina Selyukh reports on why social justice advocates like Catherine Bracy of Oaklands TechEquity Collaborative arent buying the excuses made by giant tech companies like Google and Facebook for their failure to hire more minorities.
+
+
+Turkey broth: Wikislaks has published nearly 300,000 emails leaked to it from inside the ruling party of Turkeys president Recep Tayyip Erdogan, reports Andy Greenberg for Wired. In response, Turkey has blocked access to WikiLeaks, Amar Toor reports for The Verge.
+
+
+
+
+By: Micah L. Sifry
+Jul 20, 2016
+
+
+
+
+
+Share
+
+
+Share on Twitter
+
+
+Share on Facebook
+
+
+Share by Email
+
+
+Topics  First Post 
+
+
+
+
+Tech and politics: Tech billionaire, free speech suppressor and Facebook board member Peter Thiel will be among the keynote speakers on the last day of the Republican National Convention, this Thursday night, making him one of the first openly gay speakers at a Republican convention. But as Lissandra Villa reports for Time magazine, Trumps campaign manager says Thiel is there because hes a friend of Trumps and because hes a successful entrepreneur.
+
+Heres a rundown from Kate Conger of Techcrunch of some of the more techie ways you can watch the Republican convention: with Twitchs live stream, with the Twitter-CBS News live-stream, or with the Facebook-ABC News live page.
+
+
+Online real-time fact checking lives (maybe)! An unemployed journalist named Jarrett Hill noticed that some lines from Melania Trumps convention speech last night sounded familiar, and a tweet by him nailing her for plagiarizing from Michelle Obamas 2008 convention speech praising her husband Barack went viral.
+
+
+Heres a handy guide from Witness Sarah Kerr and Jackie Zammuto with tips for activists on their rights to film protests and/or police during the conventions.
+
+
+This is civic tech: Claire MIcklin of Chi Hack Night describes how a web tool she built called My Building Doesnt Recycle led the Chicago City Council to draft a new city ordnance which is expected to pass tomorrow.
+
+
+Google has launched a new search feature that will help people register to vote, Sarah Perez reports for TechCrunch.
+
+
+Katherine Klosek of the Johns Hopkins Center for Government Excellence (GovEx), writes in the GovEx blog that civic tech isnt dead, its evolving beyond its initial definition to include new ways for cities to collaborate with community partners.
+
+
+Law.coms Ricci Dipshan reports on how New York City councilman Ben Kallos (and longtime friend of Civic Hall) is working to make the citys laws more transparent and responsive to public input.
+
+
+Paul Ford nails why New York Citys tech scene is thriving, and also more civically engaged and less arrogant than San Franciscos.
+
+
+Congrats to Erie Meyer, one of the founding members of the U.S. Digital Service (and cofounder of Tech Lady Mafia), who will be a Shorenstein Fellow at the Harvard Kennedy School this fall.
+
+
+Brave new world: The headline on technosociologist Zeynep Tufekcis latest New York Times online column says it all: How the Internet Saved Turkeys Internet-Hating President.
+
+
+Information security researcher the grugq (his nom de plume) adds lots of detail to that picture, arguing that cyberpower crushed the coup. Well, maybenext time coup plotters will likely move to shut down their countrys internet service when they seek to steal power.
+
+
+Fast Companys Mike Elgan reports on how the French turned to Twitter and Facebook in the immediate wake of the truck attack in Nice last week, and not to a new safety alert app promised by the French government. He also points out that Googles Crisis Response system seems to have been abandoned, in favor of using Google Now cards that are location specific.
+
+
+
+
+By: Micah L. Sifry
+Jul 19, 2016
+
+
+
+
+
+Share
+
+
+Share on Twitter
+
+
+Share on Facebook
+
+
+Share by Email
+
+
+Topics  First Post 
+
+
+
+
+
+The OpenGov Foundations Seamus Kraft argues on Medium that civic technologists shouldnt be taken in by lobbying-fueled conflicts like the one trumpeted in the recent GovTech headline, IT Showdown: Tech Giants Face Off Against 18F. I believe the best defense for 18F and USDS will continue to be some savvy combination of doing what theyre already doingshipping better, cheaper and faster digital servicesand steadfastly refusing to engage legacy tech giants on grounds their lobbyists choose, Kraft writes.
+
+
+Tech and the presidentials: Donald Trumps last three primary competitors still havent handed over the voter data they amassed during their campaigns to the Republican National Committee, Sasha Issenberg reports for Bloomberg, a breach of standard party behavior.
+
+
+I Quant NYs Ben Wellington used New York Citys recently-released searchable open budget to find a $791 million-typo. Whats so troubling to me is that if anyone within government had used the data of the budget to even shallowly analyze NYPD spending at a high level, this would have been caught, Wellington wrote. After all, it was in the proposed Executive Budget in April and stayed in there throughout negotiations with the Council that ended in June. And then it was voted on and adopted.
+The fact that this amount of money made it through the budget process presumably mislabeled makes the case for Open Data even stronger, he continued. Open Data is not just about transparency. Our government officials are only human and our agencies have limited resources. Budgets are far too large and complex to be understood end-to-end by our legislators. As more data gets out to the public, well start to see that our citizens can help improve the way government operateseven if its sometimes proof reading!
+
+
+Writing for FCW, Zach Noble explains why tech hasnt fixed FOIA yet.
+
+
+Drone delivery: Matt Dayo reports for the Stgsit on how the government is going to use drones to vaccinate a favorite food group (prairie dog) of the black-footed ferret, a mammal at risk of extinction, and the only native ferret in North America.
+
+
+This is at the heart of the regions culture that goes all the way back to the Gold Rush, Paul Saffo, a longtime technology forecaster and a faculty member at Singularity University, a think tank and business incubator, told the New York Times John Markoff, who wrote about Silicon Valleys obsession with AI. The valley is built on the idea that there is always a way to start over and find a new beginning.
+
+
+The government wants to start vetting candidates for intelligence agencies with wearable sensors to help gauge their physical and psychological abilities, Karen Turner reports for the Washington Post.
+
+
+Texts from your leader: Dear children of the Turkish nation read the beginning of a text sent to Turkish citizens during the attempted coup last week, urging them to take to the streets to resist the coup, Andrew Liptak reports for The Verge.
+
+
+Jobs, jobs, jobs! The new nonprofit research and development arm of Civic Hall, Civic Hall Labs, is hiring. Theyre looking for a director of technology, a user testing lead, a pro bono tech project manager, a challenges project manager, and a communications associate. Learn more here.
+
+
+
+
+By: Jessica McKenzie
+Jul 18, 2016
+
+
+
+
+
+Share
+
+
+Share on Twitter
+
+
+Share on Facebook
+
+
+Share by Email
+
+
+Topics  First Post 
+
+
+
+
+
+After the horrific attack in Nice, some French citizens noted that the governments official emergency alert application took over three hours to send an alert to users, Aurellen Breeden reports from Paris for the New York Times. The smartphone application, which was only released last month, is supposed to notify users when an attack or natural disaster occurs near them and to provide advice on what to do.
+
+
+Tech and the presidentials: Issie Lapowsky reports for Wired on the gulf between Hillary Clintons tech team of Silicon Valley all-stars and Donald Trumps recently-hired lone (or at least lonely) digital director.
+
+
+Tech CEOs from companies that include Slack, Twilio, Yelp, Reddit, Twitter, and others have signed an open letter denouncing Donald Trumps candidacy, Kate Conger reports for TechCrunch. They collectively wrote Trump would be a disaster for innovation. His vision stands against the open exchange of ideas, free movement of people, and productive engagement with the outside world that is critical to our economyand that provide the foundation for innovation and growth.
+
+
+Dylan Matthews reports for Vox on how Hillary Clinton is using Pokemon Go to register voters.
+
+
+Civic Hall founder Andrew Rasiej and Marie Ternes write in the New York Daily News that the game designers should embed civic features that channel the enthusiasm for the game for the public good. Their suggestions include: designating libraries, museums, community health centers, playgrounds, national, state and local parks, and other civic centers as PokeStops or Pokemon gyms; donating a percentage of the profits to popular public spaces; and putting PokeStops at polling places on Election Day. Ultimately, Rasiej and Ternes write, maybe the best way for developers to make Pokemon Go more civically responsible is to ask millions of users for ideas of what features they would want incorporated to advance the common good.
+
+
+Yesterday Microsoft won a legal battle with the U.S. government over whether or not it has to turn over email communications stored in data centers out of the country, Nick Wingfield and Cecilia Kang report for the New York Times.
+
+
+Microsofts general counsel Brad Smith spoke on this very topic at Personal Democracy Forum 2014.
+
+
+Brave new world: Disorderly conduct, cyber harassment, inciting injury to persons or property: these are just a few of the charges filed against U.S. citizens for criticizing cops on Facebook and Twitter, Naomi LaChance reports for The Intercept, charges that have raised concerns over the policing of speech.
+
+
+Tweeters from the peanut gallery were quick to point out that other groups have long endured online harassment far more severe than these particular instances only to hear that police cant do anything about it.
+
+
+A new law in North Carolina makes dashcam and bodycam footage off-limits to public records requests and can only be requested (and still denied) by someone personally pictured in the footage, Elaina Athans reports for ABC11. Body cameras should be a tool to make law enforcement more transparent and accountable to the communities they serve, but this shameful law will make it nearly impossible to achieve those goals, Susanna Birdsong, Policy Counsel for the ACLU of North Carolina, told Athans. People who are filmed by police body cameras should not have to spend time and money to go to court in order to see that footage. These barriers are significant and we expect them to drastically reduce any potential this technology had to make law enforcement more accountable to community members.
+
+
+This is civic tech, LOL: The U.S. Digital Services David Kaufman interviewed Baratunde Thurston about the relationship between comedy and code.
+
+
+Alissa Quart, of the Civic Hall member organization the Economic Hardship Reporting Project, writes in The Guardian that Silicon Valley-style disruption is creating a new class called the Middle Precariat, made up of people who in past decades would have comfortable incomes and job security in their positions as lawyers, nurses, or journalists, but now are losing out to younger, cheaper workers or machines.
+
+
+Photographs by Preston Gannaway published in the California Sunday Magazine provide a glimpse into the lives of the residents of San Franciscos largest youth homeless shelter. The work was also supported by the Economic Hardship Reporting Project.
+
+
+Coming up today: The UN Department of Economic and Social Affairs will launch its World Youth Report on Youth Civic Engagement today at 1pm. Watch the live broadcast here.
+
+
+
+
+By: Jessica McKenzie
+Jul 15, 2016
+
+
+
+
+
+Share
+
+
+Share on Twitter
+
+
+Share on Facebook
+
+
+Share by Email
+
+
+Topics  First Post 
+
+
+
+
+
+I will hold my nose and go into that voting booth, one reluctant Trump-voter-to-be told the New York Times, as Amy Chozick and Dalia Sussman report in a piece about the publics lost trust in Hillary Clinton as a result of the private email server fiasco. A New York Times/CBS News poll shows that Clinton has lost her lead over Donald Trump, and both now have the support of 40 percent of voters.
+
+
+Our Micah Sifry writes for The Nation that, by remaining mostly silent on tech issues, Bernie Sanders lost an opportunity to push Hillary Clinton to have a more progressive tech agenda, and as a result, her platform is mostly a safe, conservative continuation of Obamas. Where Obama claims to balance support for individual privacy and security with ongoing reliance on Americas vast cyber-spying capabilities, Clinton mouths the same contradictory platitudes. If Obama has been quiet on the issue of protecting workers in the on-demand economy, Clinton is similarly vague in calling for a high-level working group.
+But what of Sanders? Crickets. For all his socialist stylings, Sanders never articulated a vision of technology serving the public good, Sifry writes. Thus, for all the useful pressure his campaign put on Clinton to shift to the left, an opportunity to develop a more substantive progressive tech agenda in 2016 was squandered. Yes, a lot of idealistic coders built a lot of useful organizing technology to assist the Sanders campaign, but they had no influence on his tech policies. Nor, as best as I can tell, did they try to exert any.
+
+
+Dan Gillmor catalogs the questions and issues raised by Diamond Lavish Reynolds Facebook Live video of her partner Philando Castiles death last week.
+
+
+In his post, Gillmor draws attention to a news item from June that Id missed, which is that Apple has patented a feature that would allow iPhone cameras to be disabled through special infrared sensors, as Danny Yadron reported for The Guardian. Great for concerts; not so great for people attending a protest or documenting police violence.
+
+
+Meanwhile, another shooting has been broadcast on Facebook Live, Mike McPhate reports for the New York Times.
+
+
+Bloombergs Sarah Frier and Max Chafkin report on Facebooks readiness (or lack thereof) to be the worlds live news network.
+
+
+The Senate has confirmed Carla D. Hayden to be the 14th librarian of Congress, Peggy McGlone reports for the Washington Post. Hayden is both the first woman and the first African American to hold the post. Last year a federal agency found the Library of Conference to have numerous technological shortcomings, and Hayden will be responsible for modernizing the library for the digital age.
+
+
+A data scientist named Chris Whong has a new map made with open data that shows New Yorks Subway Deserts, Tanvi Misra reports for City Lab.
+
+
+
+
+By: Jessica McKenzie
+Jul 14, 2016
+
+
+
+
+
+Share
+
+
+Share on Twitter
+
+
+Share on Facebook
+
+
+Share by Email
+
+
+Topics  First Post 
+
+
+
+
+
+The Guardians Julia Carrie Wong reports on the gap between tech companies superficial expressions of sympathy or allyship and their diversity numbers, after Salesforce CEO Marc Benioff tweeted Yes that is a @Twitter @blackbirds logo. Amazing to see tech as vehicle for social change. Respect in response to a photo of activist Deray McKesson being arrested, and TechCrunch ran the headline Black Lives Matter activist Deray McKesson arrested while Periscoping.
+That anyone could see a picture of a black man being arrested for protesting against the wrongful killing of another black man and respond Hey look at the Twitter logo, would be mind-boggling if it happened anywhere else. In the tech industry though, its par for the course, Erica Joy Baker, a senior engineer at Slack and founding member of Project Include, told Wong.
+
+
+A funny thing happened on the way to sousveillance, Ethan Zuckerman writes for Technology Review. Video doesnt always lead to accountability. In spite of this, however, Zuckerman argues that the practice of sousveillance, of filming police officers misdeeds, is worthwhile because, while individual cases might not see justice, they are helping to bring more people, particularly white people, into the Black Lives Matter movement.
+
+
+Poynters Benjamin Mullin reports on how the Washington Post is using Genius to annotate and report on the 2016 election.
+
+
+Wins: Benjamin Weiser reports for the New York Times that a federal judge has thrown out evidence in a narcotics case obtained after the investigators used a Stingray without a warrant. A lawyer with the Speech, Privacy and Technology Project told the Times that the decision strongly reinforces the strength of our constitutional privacy rights in the digital age.
+
+
+In a 409-8 vote yesterday, the House passed the TALENT Act, codifying the Presidential Innovation Fellows program into law.
+
+
+Future of work: College-educated millennials are working nearly full-time jobs on Amazons Mechanical Turk for far less than minimum wage, Noah Kulwin reports for Recode. Those lazy, good-for-nothing millennials!
+
+
+All the Pokemon Go news you didnt ask for: Andrea Peterson reports for the Washington Post that the Holocaust Museum wants people to stop playing Pokemon Go during their museum visit, and staff are looking into getting the museum taken out of the game.
+
+
+Writing for Graphic Policy, Tea Fougner takes a look at accessibility within the game, writing that players in rural and sometimes suburban areas are at a distinct disadvantage to those in urban areas, and that women and people of color have to decide whether or not they can or should go to areas that may make them less safe. Some black players have reportedly already been stopped by police while playing, and others have put together safety tips to use while playing the game.
+
+
+Finally, Ben Berkowitz, the CEO of SeeClickFix, responds to everyone clammering to hear how he is going to use Pokemon Go to get people to report potholes, or complete other civic tasks.
+
+
+Still want to read about Pokemon Go, pro or con? The New York Times has you covered.
+
+
+
+
+By: Jessica McKenzie
+Jul 13, 2016
+
+
+
+
+
+Share
+
+
+Share on Twitter
+
+
+Share on Facebook
+
+
+Share by Email
+
+
+Topics  First Post 
+
+
+
+
+
+The New York Times editorial board says the time to discuss killer robots is now, before another police department has the opportunity or need to use one.
+
+
+Elmo Keep reports for Fusion that it was not the first time an armed robot had been deployed in a stand-off in police, citing a incident in Albuquerque in 2014, although in that case the suspect surrendered.
+
+
+Fusion has also posted an interactive documentary about hunting down the people behind the mugshots.com, a site that posts mugshots and then forces people to pay hundreds or thousands of dollars to get them taken down.
+
+
+The rise of social media and the decline of the truth: Writing in The Guardian, Katharine Viner argues that the Brexit vote can be in part blamed on a media environment that no longer seems to care whether a story or a set of facts are true or not, citing Eli Parisers filter bubble and Civicist contributor Tom Steinbergs thoughts on Brexit and the echo chamber of social media. Familiar ground for many Civicist readers, but its always good to have a refresher course on the relationship between technology and media. (h/t Adam Bard)
+
+
+Here is a list of all the things that have gone wrong (mostly injuries) while people play Pokemon Go, compiled by Fusions Ethan Chiel. Meanwhile, Twitter is split over whether Pokemon Go will keep people too busy to vote in November, or whether Nintendo could be pressured into putting Pokemon at polling places this November, thereby catching the millennial vote.
+
+
+For her Poynter column, Melody Kramer lists the possibilities of Pokemon Go for journalists, which spills over into the civic arena as well. There also may be ways to augment this data collection with more information that might be potentially very helpful in the aggregate, Kramer writes. For instance, could Pokemon Go players track and report potholes in a city? Could they track air quality? Could an augmented reality program say: Youre in this spot where X thing happened. Would you like to do Y? Would you like to sign up for Z? (And then how might those actions be facilitated?) Or: Youve looked for X creature at 7 p.m. at City Hall. Did you know theres a City Council meeting taking place here tomorrow night?
+
+
+Opportunity aknockin: San Francisco is building out a digital services program and need a Chief Digital Services Officer to help redesign city services. Could that be you? Learn more here.
+
+
+
+
+By: Jessica McKenzie
+Jul 12, 2016
+
+
+
+
+
+Share
+
+
+Share on Twitter
+
+
+Share on Facebook
+
+
+Share by Email
+
+
+Topics  First Post 
+
+
