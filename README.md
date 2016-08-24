@@ -10,7 +10,6 @@ In an effort to make [Civic Graph](http://civicgraph.io) a little bit smarter, I
 ![](blocks.png)
 
 
-----
 
 # Useful Resources within this Repository:
 
