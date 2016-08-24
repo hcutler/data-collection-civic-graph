@@ -14,15 +14,12 @@ In an effort to make [Civic Graph](http://civicgraph.io) a little bit smarter, I
 I created a __Process Map__ to explain how everything that I built fits together. View it [here](/References/Mad Libs Visual.pdf)
 
 I also created a __Handoff Document for a Future Fellow__ outlining how each script works, external libraries used, and how they can fully integrate my work with the existing Civic Graph in the future. View the document [here](/References/Handoff for Future Fellow.pdf).
-
-
-
-
-
+ 
+ 
+ 
 ----
-
-
-
+ 
+ 
 
 # External Resources:
 
