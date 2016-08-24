@@ -7,7 +7,12 @@ In an effort to make [Civic Graph](http://civicgraph.io) a little bit smarter, I
 * [__Classifier__](/Classifier)
 * [__Pipeline__](/References/Pipeline Diagram.pdf) to integrate *scrapers*, *classifier*, and *analysis* with existing Civic Graph
 
-View the full write-up [here](/References/Handoff for Briana.pdf).
+
+# Useful Resources within this Repository:
+
+I created a __Process Map__ to explain how everything that I built fits together. View it [here](/References/Mad Libs Visual.pdf)
+
+I also created a __Handoff Document for a Future Fellow__ outlining how each script works, external libraries used, and how they can fully integrate my work with the existing Civic Graph in the future. View the document [here](/References/Handoff for Future Fellow.pdf).
 
 
 ![](blocks.png)
@@ -17,7 +22,7 @@ View the full write-up [here](/References/Handoff for Briana.pdf).
 
 
 
-# Additional Resources:
+# External Resources:
 
 I've compiled a list of tools and resources that I used throughout the project. They cover a range of topics including:
 
