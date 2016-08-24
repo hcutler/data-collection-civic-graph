@@ -7,17 +7,21 @@ In an effort to make [Civic Graph](http://civicgraph.io) a little bit smarter, I
 * [__Classifier__](/Classifier)
 * [__Pipeline__](/References/Pipeline Diagram.pdf) to integrate *scrapers*, *classifier*, and *analysis* with existing Civic Graph
 
-View the full write-up [here](/References/Handoff for Briana.pdf).
-
-
 ![](blocks.png)
 
+# Useful Resources within this Repository:
 
-----
+* I created a __Process Map__ to explain how everything that I built fits together. View it [here](/References/Mad Libs Visual.pdf)
 
+* I also created a __Handoff Document for a Future Fellow__ outlining how each script works, external libraries used, and how they can fully integrate my work with the existing Civic Graph in the future. View the document [here](/References/Handoff for Future Fellow.pdf).
+ 
+<br /> 
 
+---
 
-# Additional Resources:
+<br />
+
+# External Resources:
 
 I've compiled a list of tools and resources that I used throughout the project. They cover a range of topics including:
 
@@ -30,15 +34,16 @@ I've compiled a list of tools and resources that I used throughout the project. 
 
 ### __Libraries, tools, APIs:__
 
-* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/): Python library for parsing XML and HTML.
 
-* [spaCy](https://spacy.io/)
+* [spaCy](https://spacy.io/): Free, open-source Python library for fast and accurate Natural Language Processing analysis.
 
-* [textacy](https://github.com/chartbeat-labs/textacy)
+* [textacy](https://github.com/chartbeat-labs/textacy): Python library built on top of spaCy for higher level Natural Language Processing (NLP).
 
-* [nltk](http://www.nltk.org/)
+* [nltk](http://www.nltk.org/): Platform for writing python programs to work with human language data.  Provides over 50 corpora and lexical resources. Includes text processing libraries for classification, tokenization, stemming, tagging, parsing, semantic reasoning, wrappers for industrial-strength NLP libraries.  Tools are easy to use and accurate but very slow on large datasets.
 
-* [scikit-learn](http://scikit-learn.org/stable/)
+* [scikit-learn](http://scikit-learn.org/stable/): Machine learning library in Python built on NumPy, SciPy, and matplotlib.
+
 
 
 ### __Concepts:__
